@@ -86,20 +86,24 @@ i = 3
 plt.plot(test[:,i],color=colors[i],alpha=0.5)
 
 '''
-Unsupervised learning attempt
+Do windowing
 '''
 
 window_dim = (int(np.ceil(D/2)), N)
-valid_spikes = (A_sparse[1] > window_dim[0]) & (A_sparse[1] < T- window_dim[0])
+valid_spikes = (A_sparse[1] > window_dim[0]) & (A_sparse[1] < T- window_dim[0]) # valid spikes are spikes with enough of a buffer to generate a window around it
 
 M_labels = A_sparse[2][valid_spikes]
 N_labels = A_sparse[0][valid_spikes]
 T_labels = A_sparse[1][valid_spikes]
-windows = np.zeros((len(T_labels), N, window_dim[0]*2))
+windows = np.zeros((len(T_labels), N, window_dim[0]*2)) # creates an array to store all windows
 for i,window_time in enumerate(T_labels):
     windows[i,...] = A_dense[:,-window_dim[0]+window_time:window_dim[0]+window_time]
 #     windows[i,N_labels[i],window_dim[0]] = 2
 print('spikes: %d, neurons: %s, depth: %a' %windows.shape)
+
+'''
+checking the clusters for row N=1
+'''
 
 test = windows[N_labels==1]
 
