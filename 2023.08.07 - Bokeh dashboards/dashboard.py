@@ -212,6 +212,7 @@ slider_layout = column(M_slider, N_slider, D_slider, T_slider, dt_slider, nrn_fr
 
 # Combine the four subplots A and B into a single row layout
 row_ABCD = row(fig_A, fig_B,fig_C, fig_D, sizing_mode="stretch_width")
+
 # Combine the E, F, and G into a single column layout
 col_EFG = column(fig_E, fig_F, fig_G, sizing_mode="stretch_width")
 
