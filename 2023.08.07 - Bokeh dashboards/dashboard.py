@@ -7,9 +7,25 @@ from bokeh.models.widgets import Slider
 from bokeh.layouts import column, row
 
 '''
+Model parameters
+'''
+import random
+import numpy as np
+
+M = 4 # Number of Spiking motifs
+N = 20 # Number of input neurons
+D = 31 # temporal depth of receptive field
+T = 1000
+dt = 1
+nrn_fr = 20 # hz
+pg_fr = 6 # hz
+background_noise_fr = 5 # h
+
+np.random.seed(41)
+
+'''
 Setup
 '''
-
 import matplotlib.pyplot as plt
 from scipy.signal import savgol_filter
 import sys
@@ -54,30 +70,49 @@ nrn_fr_slider = Slider(title='Neuron firing rate (Hz)', start=1, end=50, step=1,
 pg_fr_slider = Slider(title='Spiking motif firing rate (Hz)', start=1, end=20, step=1, value=pg_fr)
 background_noise_fr_slider = Slider(title='Background noise firing rate (Hz)', start=1, end=20, step=1, value=background_noise_fr)
 
-# Create a ColumnDataSource to store the scatter plot data
+# Create a ColumnDataSource to store the plot data
 source_A = ColumnDataSource(data=dict(x=[], y=[], category=[]))
 source_B = ColumnDataSource(data=dict(x=[], y=[], category=[]))
 source_C = ColumnDataSource(data=dict(x=[], y=[], category=[]))
 source_D = ColumnDataSource(data=dict(x=[], y=[], category=[]))
+source_E = ColumnDataSource(data=dict(x=[], y=[], category=[],color=[]))
+source_F = ColumnDataSource(data=dict(x=[], y=[], category=[],color=[]))
+source_G = ColumnDataSource(data=dict(x=[], y=[],color=[]))
 
-# Create four empty figures for the subplots
-fig_A = figure(width=300, height=300, title="Subplot A")
-fig_B = figure(width=300, height=300, title="Subplot B")
-fig_C = figure(width=300, height=300, title="Subplot C")
-fig_D = figure(width=300, height=300, title="Subplot D")
+# Create empty figures for the subplots
+width = 300
+height = 200
+fig_A = figure(width=width, height=height, title="Subplot A")
+fig_B = figure(width=width, height=height, title="Subplot B")
+fig_C = figure(width=width, height=height, title="Subplot C")
+fig_D = figure(width=width, height=height, title="Subplot D")
+
+combined_width = fig_A.width + fig_B.width + fig_C.width + fig_D.width
+
+fig_E = figure(width=combined_width, height=height, title="Subplot E")
+fig_F = figure(width=combined_width, height=height, title="Subplot F")
+fig_G = figure(width=combined_width, height=height, title="Subplot G")
 
 # Create four empty scatter renderers for each subplot
-scatter_A = fig_A.scatter(x=[], y=[], color='blue', size=10)
-scatter_B = fig_B.scatter(x=[], y=[], color='red', size=10)
-scatter_C = fig_C.scatter(x=[], y=[], color='green', size=10)
-scatter_D = fig_D.scatter(x=[], y=[], color='purple', size=10)
+scatter_A = fig_A.scatter(x='x', y='y', color=palette[1], size=10, source=source_A, alpha=0.9)
+scatter_B = fig_B.scatter(x='x', y='y', color=palette[2], size=10, source=source_B, alpha=0.9)
+scatter_C = fig_C.scatter(x='x', y='y', color=palette[3], size=10, source=source_C, alpha=0.9)
+scatter_D = fig_D.scatter(x='x', y='y', color=palette[4], size=10, source=source_D, alpha=0.9)
+scatter_E = fig_E.scatter(x='x', y='y', color='color', size=10, source=source_E, alpha=0.9)
+scatter_F = fig_F.scatter(x='x', y='y', color='color', size=10, source=source_F, alpha=0.9)
+
+# Create a line renderer for subplot G
+
+# Create a list to store the line renderers for subplot G
+line_renderers = []
+
 
 # Create a list of ColumnDataSources and scatter renderers to update the data
-data_sources = [source_A, source_B, source_C, source_D]
+K_data_sources = [source_A, source_B, source_C, source_D]
 scatter_renderers = [scatter_A, scatter_B, scatter_C, scatter_D]
 
-# Create a 2x2 grid layout for the four subplots
-grid = gridplot([[fig_A, fig_B], [fig_C, fig_D]])
+other_data_sources = [source_E, source_F]
+other_renderers = [scatter_E, scatter_F]
 
 # Define the update function with the data generation and plotting
 def update(attr, old, new):
@@ -116,10 +151,50 @@ def update(attr, old, new):
     A_dense = np.sum(A_dense, axis=2)
     A_dense[A_dense > 1] = 1
     
+    # Take a ground truth pattern from K_dense and convolute it with A_dense to make sure that perfect knowledge can pull out
+    # the timings of the pattern
+
+    test = np.zeros((T,M))
+    for j in range(M):
+        for i in range(T):
+            test[i,j] = np.sum(K_dense[...,j]*A_dense[:,i:i+D])
+        test[:,j] = test[:,j]/np.max(test[:,j])
+
+    
     # Update the scatter plot data sources for each subplot
-    for i, (scatter_renderer, data_source) in enumerate(zip(scatter_renderers, data_sources)):
+    
+    for i, (scatter_renderer, data_source) in enumerate(zip(scatter_renderers, K_data_sources)):
         indices = (K_sparse[1][K_sparse[2] == i + 1], K_sparse[0][K_sparse[2] == i + 1])
         data_source.data = dict(x=indices[0], y=indices[1], category=np.full_like(indices[0], i + 1))
+    
+
+    indices = (B_sparse[1], B_sparse[0])
+    source_E.data = dict(x=indices[0], y=indices[1], category=np.full_like(indices[0], i + 1), color=palette[B_sparse[0]])
+    
+    indices = (A_sparse[1], A_sparse[0])
+    source_F.data = dict(x=indices[0], y=indices[1], category=np.full_like(indices[0], i + 1), color= palette[A_sparse[2]]) 
+    
+#     source_G.data = dict(x=np.arange(0,(len(test[:, 0]))), y=test[:, 0])
+
+    # Update the line renderers and their data for subplot G
+    for i in range(M):
+        # Check if the line renderer for the current "y" series already exists
+        if i >= len(line_renderers):
+            # Create a new line renderer if it doesn't exist
+            new_line_renderer = fig_G.line(x=np.arange(0,(len(test[:, i]))), y=test[:, i], line_color=palette[i + 1], line_width=2,alpha=0.3)
+            line_renderers.append(new_line_renderer)
+        else:
+            # If the line renderer exists, update its line color
+            line_renderers[i].glyph.line_color = palette[i + 1]
+
+        # Update the data of the line renderer for the current "y" series
+        line_renderers[i].data_source.data = dict(x=np.arange(0,(len(test[:, i]))), y=test[:, i])
+
+    # If there are more line renderers than needed, remove the extra ones
+    while len(line_renderers) > M:
+        line_renderer = line_renderers.pop()
+        fig_G.renderers.remove(line_renderer)
+    
 
 
 # Attach the update function to the 'value' property of the sliders
@@ -135,8 +210,13 @@ background_noise_fr_slider.on_change('value', update)
 # Create a column layout for the sliders
 slider_layout = column(M_slider, N_slider, D_slider, T_slider, dt_slider, nrn_fr_slider, pg_fr_slider, background_noise_fr_slider)
 
+# Combine the four subplots A and B into a single row layout
+row_ABCD = row(fig_A, fig_B,fig_C, fig_D, sizing_mode="stretch_width")
+# Combine the E, F, and G into a single column layout
+col_EFG = column(fig_E, fig_F, fig_G, sizing_mode="stretch_width")
+
 # Combine the four subplots into a single grid layout
-subplot_layout = gridplot([[fig_A, fig_B], [fig_C, fig_D]])
+subplot_layout = gridplot([[row_ABCD], [col_EFG]], sizing_mode="scale_width")
 
 # Combine the slider layout and the subplot layout into a row layout
 layout = row(slider_layout, subplot_layout)
@@ -144,5 +224,5 @@ layout = row(slider_layout, subplot_layout)
 # Call the update function to initialize the plots with the initial parameter values
 update(None, None, None)
 
-# Show the layout
-show(layout)
+# Add the layout to the current document
+curdoc().add_root(layout)
