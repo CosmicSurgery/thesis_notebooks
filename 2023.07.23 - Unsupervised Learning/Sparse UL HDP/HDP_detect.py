@@ -41,8 +41,8 @@ def scan_raster(T_labels, N_labels, window_dim = None):
 
     while iter_ <= max_iter: # this is just a for loop...
 
-        clusters = cluster_windows(cutoff)
-        cluster_sq, sq_counts, sublist_keys_filt = check_seq(clusters, cutoff)
+        clusters = _cluster_windows(cutoff, windows, T_labels, N_labels)
+        cluster_sq, _sq_counts, sublist_keys_filt = _check_seq(clusters, T_labels, N_labels)
 
         if len(sublist_keys_filt) != 0:
             max_ = np.max([len(k) for k in sublist_keys_filt])
@@ -56,8 +56,8 @@ def scan_raster(T_labels, N_labels, window_dim = None):
 
         print(f'iter - {iter_/max_iter} | cutoff - {cutoff} | opt_cutoff - {opt_cutoff} | most_detections - {max_seq_rep}',end='\r')
 
-    clusters = _cluster_windows(cutoff)
-    cluster_sq, sq_counts, sublist_keys_filt = _check_seq(clusters, cutoff)
+    clusters = _cluster_windows(opt_cutoff, windows, T_labels, N_labels)
+    cluster_sq, sq_counts, sublist_keys_filt = _check_seq(clusters, T_labels, N_labels)
         
 
     ''' to get the timings'''
@@ -105,13 +105,13 @@ def scan_raster(T_labels, N_labels, window_dim = None):
 
     return pattern_template, sublist_keys_filt
 
-def _cluster_windows(cutoff):
+def _cluster_windows(cutoff, windows, T_labels, N_labels):
     HDPs = []
     sim_mats = []
     
     # Get the cluster assignments for each spike based on hierarchical clustering
     clusters = np.zeros_like(T_labels)
-    for n in range(N):
+    for n in np.unique(N_labels):
         idc = np.where(N_labels==n)[0]
         windows_n = windows[idc]
         if len(windows_n) > 1:
@@ -132,7 +132,7 @@ def _cluster_windows(cutoff):
     
     return clusters
 
-def _check_seq(clusters, cutoff):
+def _check_seq(clusters, T_labels, N_labels):
 
     time_differences = []
     cluster_sq = {}
@@ -164,22 +164,3 @@ def _check_seq(clusters, cutoff):
     sublist_keys_filt = sublist_keys_np[np.array(list(sublist_counts.values())) >1] # only bother clustering repetitions that appear for more than one neuron
     
     return cluster_sq, sq_counts, sublist_keys_filt
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
