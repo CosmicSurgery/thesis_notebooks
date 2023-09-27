@@ -111,6 +111,7 @@ def generate_synthetic_data(params, plot=False):
     # Dense K: matrix of binary images of sizeNxDxM
     # Sparse K: set of (delay d, neuron a, and pg b)
     N, M, D, T, seed, num_SM_events, SM_total_spikes, noise = params['N'], params['M'], params['D'], params['T'], params['seed'],params['num_SM_events'],params['SM_total_spikes'],params['noise']
+    np.random.seed(seed)
 
     # Loop through each 'M' dimension
     K_rand = np.random.rand(N,D,M)
@@ -120,10 +121,11 @@ def generate_synthetic_data(params, plot=False):
     B_dense = np.zeros_like(B_rand) 
 
     A_dense = np.zeros((N,T,M+1))
-    A_rand = np.random.rand(N,T)
-    sorted_indices_A = np.argsort(A_rand[:,:],axis=None)
-    top_indices_A = np.unravel_index(sorted_indices_A[-noise:], (N, T))
-    A_dense[top_indices_A[0], top_indices_A[1], 0] =1
+    if noise != 0: # if noise is zero then we want to keep the matrix of zeros
+        A_rand = np.random.rand(N,T)
+        sorted_indices_A = np.argsort(A_rand[:,:],axis=None)
+        top_indices_A = np.unravel_index(sorted_indices_A[-noise:], (N, T))
+        A_dense[top_indices_A[0], top_indices_A[1], 0] =1
 
     for m in range(M):
         # Sort the current 'M' dimension
