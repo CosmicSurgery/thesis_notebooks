@@ -110,7 +110,7 @@ def generate_synthetic_data(params, plot=False):
     '''
     # Dense K: matrix of binary images of sizeNxDxM
     # Sparse K: set of (delay d, neuron a, and pg b)
-    N, M, D, T, seed, num_SM_events, SM_total_spikes, noise = params['N'], params['M'], params['D'], params['T'], params['seed'],params['num_SM_events'],params['SM_total_spikes'],params['noise']
+    N, M, D, T, seed, num_SM_events, SM_total_spikes, noise = params['N'], params['M'], params['D'], params['T'], params['seed'],params['SM_repetitions'],params['spikes_in_SM'],params['noise']
     np.random.seed(seed)
 
     # Loop through each 'M' dimension
@@ -157,3 +157,59 @@ def generate_synthetic_data(params, plot=False):
         plot_raster(params, A_dense, A_sparse, B_dense, B_sparse, K_dense, K_sparse)
     
     return A_dense, A_sparse, B_dense, B_sparse, K_dense, K_sparse
+
+def get_acc(matrix_x,matrix_y):
+    # Calculate cross-correlation matrix
+    cc = np.zeros((matrix_x.shape[2], matrix_y.shape[2]))
+
+    for x_channel_idx in range(matrix_x.shape[2]):
+        for y_channel_idx in range(matrix_y.shape[2]):
+            cc[x_channel_idx, y_channel_idx], _ = max_overlap(matrix_x[...,x_channel_idx],matrix_y[...,y_channel_idx])
+    SM_acc = np.max(cc,axis=1)
+    return SM_acc, cc
+
+def max_overlap(image, kernel):
+    result = np.zeros((image.shape[1]+kernel.shape[1]-1))
+    for n in range(image.shape[0]):
+        result += correlate(image[n,:], kernel[n,:], mode = 'full')
+    return np.max(result)/max(np.sum(image),np.sum(kernel)), np.argmax(result)
+
+def get_imgs(K_dense, pattern_template):
+    if len(pattern_template) == 0:
+        print('FAIL')
+        return pattern_template, None
+    
+    win_size = (K_dense.shape[0],1+max([max(k[:,0]) for k in pattern_template]))
+    pattern_img = np.zeros((len(pattern_template),*win_size))
+    for p,pattern in enumerate(pattern_template):
+        for (i,j) in pattern:
+            pattern_img[p,j,i] = 1
+            
+    pattern_img = pattern_img.transpose((1,2,0))
+    
+    return pattern_template, pattern_img
+
+from scipy.signal import correlate
+def get_acc(ground_truths,detected_patterns):
+    # Calculate cross-correlation matrix
+    cross_corr_matrix = np.zeros((ground_truths.shape[2], detected_patterns.shape[2]))
+    SM_acc = np.zeros((ground_truths.shape[2]))
+    
+    if len(detected_patterns) == 0:
+        return SM_acc, cross_corr_matrix
+    
+    for ground_truths_idx in range(ground_truths.shape[2]):
+        for detected_patterns_idx in range(detected_patterns.shape[2]):
+            cross_corr = np.zeros((ground_truths.shape[1]+detected_patterns.shape[1]-1))
+            for n in range(ground_truths.shape[0]):
+                cross_corr += correlate(ground_truths[n, :, ground_truths_idx], detected_patterns[n, :, detected_patterns_idx], mode='full')
+            max_corr = np.max(cross_corr) / max(np.sum(ground_truths[...,ground_truths_idx]),np.sum(detected_patterns[...,detected_patterns_idx]))
+            cross_corr_matrix[ground_truths_idx, detected_patterns_idx] = max_corr
+    SM_acc = np.max(cross_corr_matrix,axis=1)
+    return SM_acc, cross_corr_matrix
+
+def check_ground_truth(pattern_template, K_dense):
+    _, pattern_img = get_imgs(K_dense, pattern_template)
+    SM_acc, cc = get_acc(K_dense, pattern_img)
+    return SM_acc, cc, pattern_img
+    

@@ -1,0 +1,1502 @@
+[
+    {
+        "idx": 0,
+        "seed": 1,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 2.010101795196533,
+        "total_spikes": 532,
+        "total_patterns": 844,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 0,
+        "seed": 2,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.4300658702850342,
+        "total_spikes": 532,
+        "total_patterns": 787,
+        "SM_acc": [
+            0.9411764705882353
+        ]
+    },
+    {
+        "idx": 0,
+        "seed": 3,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.3894970417022705,
+        "total_spikes": 531,
+        "total_patterns": 795,
+        "SM_acc": [
+            0.9411764705882353
+        ]
+    },
+    {
+        "idx": 0,
+        "seed": 4,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.3050084114074707,
+        "total_spikes": 532,
+        "total_patterns": 808,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 0,
+        "seed": 5,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.3417408466339111,
+        "total_spikes": 532,
+        "total_patterns": 765,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 1,
+        "seed": 0,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.5714166164398193,
+        "total_spikes": 548,
+        "total_patterns": 864,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 1,
+        "seed": 1,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.5652599334716797,
+        "total_spikes": 548,
+        "total_patterns": 921,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 1,
+        "seed": 2,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.5514943599700928,
+        "total_spikes": 548,
+        "total_patterns": 860,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 1,
+        "seed": 3,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.5078809261322021,
+        "total_spikes": 547,
+        "total_patterns": 870,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 1,
+        "seed": 4,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.7543208599090576,
+        "total_spikes": 548,
+        "total_patterns": 867,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 2,
+        "seed": 0,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.9511771202087402,
+        "total_spikes": 580,
+        "total_patterns": 1024,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 2,
+        "seed": 2,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.6725056171417236,
+        "total_spikes": 580,
+        "total_patterns": 1031,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 2,
+        "seed": 4,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.8782262802124023,
+        "total_spikes": 580,
+        "total_patterns": 1011,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 2,
+        "seed": 6,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.6552948951721191,
+        "total_spikes": 580,
+        "total_patterns": 1037,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 2,
+        "seed": 8,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.9375216960906982,
+        "total_spikes": 580,
+        "total_patterns": 1069,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 3,
+        "seed": 0,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 2.6286797523498535,
+        "total_spikes": 628,
+        "total_patterns": 1285,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 3,
+        "seed": 3,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 2.4976329803466797,
+        "total_spikes": 627,
+        "total_patterns": 1428,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 3,
+        "seed": 6,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 3.498699903488159,
+        "total_spikes": 628,
+        "total_patterns": 1299,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 3,
+        "seed": 9,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 4.435093641281128,
+        "total_spikes": 628,
+        "total_patterns": 1415,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 3,
+        "seed": 12,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 4.010567903518677,
+        "total_spikes": 628,
+        "total_patterns": 1332,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 4,
+        "seed": 0,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 13,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 5.244190454483032,
+        "total_spikes": 708,
+        "total_patterns": 1887,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 4,
+        "seed": 4,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 13,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 5.802799940109253,
+        "total_spikes": 708,
+        "total_patterns": 1744,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 4,
+        "seed": 8,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 13,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 9.16079592704773,
+        "total_spikes": 708,
+        "total_patterns": 1863,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 4,
+        "seed": 12,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 13,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 4.61823844909668,
+        "total_spikes": 708,
+        "total_patterns": 1975,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 4,
+        "seed": 16,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 13,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 6.33164119720459,
+        "total_spikes": 708,
+        "total_patterns": 2103,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 5,
+        "seed": 0,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 2,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.785322904586792,
+        "total_spikes": 516,
+        "total_patterns": 707,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 5,
+        "seed": 5,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 2,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.4192652702331543,
+        "total_spikes": 516,
+        "total_patterns": 700,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 5,
+        "seed": 10,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 2,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.7141337394714355,
+        "total_spikes": 516,
+        "total_patterns": 772,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 5,
+        "seed": 15,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 2,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.6852436065673828,
+        "total_spikes": 516,
+        "total_patterns": 744,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 5,
+        "seed": 20,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 2,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.8056066036224365,
+        "total_spikes": 516,
+        "total_patterns": 746,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 6,
+        "seed": 0,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 4,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.7172985076904297,
+        "total_spikes": 532,
+        "total_patterns": 765,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 6,
+        "seed": 6,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 4,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 2.1882236003875732,
+        "total_spikes": 532,
+        "total_patterns": 838,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 6,
+        "seed": 12,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 4,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.9923095703125,
+        "total_spikes": 532,
+        "total_patterns": 803,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 6,
+        "seed": 18,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 4,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 2.1855297088623047,
+        "total_spikes": 532,
+        "total_patterns": 822,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 6,
+        "seed": 24,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 4,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1.7507843971252441,
+        "total_spikes": 532,
+        "total_patterns": 862,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 7,
+        "seed": 0,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 8,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 2.1873340606689453,
+        "total_spikes": 564,
+        "total_patterns": 912,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 7,
+        "seed": 7,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 8,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 2.183311939239502,
+        "total_spikes": 564,
+        "total_patterns": 958,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 7,
+        "seed": 14,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 8,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 2.0340542793273926,
+        "total_spikes": 564,
+        "total_patterns": 924,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 7,
+        "seed": 21,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 8,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 2.289543628692627,
+        "total_spikes": 564,
+        "total_patterns": 940,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 7,
+        "seed": 28,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 8,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 2.538745403289795,
+        "total_spikes": 564,
+        "total_patterns": 969,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 8,
+        "seed": 0,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 3.230410099029541,
+        "total_spikes": 628,
+        "total_patterns": 1285,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 8,
+        "seed": 8,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 4.212564468383789,
+        "total_spikes": 628,
+        "total_patterns": 1364,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 8,
+        "seed": 16,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 4.328049421310425,
+        "total_spikes": 628,
+        "total_patterns": 1453,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 8,
+        "seed": 24,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 3.740004777908325,
+        "total_spikes": 628,
+        "total_patterns": 1439,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 8,
+        "seed": 32,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 3.358290195465088,
+        "total_spikes": 628,
+        "total_patterns": 1419,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 9,
+        "seed": 0,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 0,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 0.09247159957885742,
+        "total_spikes": 128,
+        "total_patterns": 10,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 9,
+        "seed": 9,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 0,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 0.11335039138793945,
+        "total_spikes": 128,
+        "total_patterns": 14,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 9,
+        "seed": 18,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 0,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 0.13416790962219238,
+        "total_spikes": 128,
+        "total_patterns": 14,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 9,
+        "seed": 27,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 0,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 0.129896879196167,
+        "total_spikes": 128,
+        "total_patterns": 9,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 9,
+        "seed": 36,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 0,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 0.09827685356140137,
+        "total_spikes": 128,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 10,
+        "seed": 0,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 50,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 0.15119695663452148,
+        "total_spikes": 178,
+        "total_patterns": 16,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 10,
+        "seed": 10,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 50,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 0.13875269889831543,
+        "total_spikes": 178,
+        "total_patterns": 29,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 10,
+        "seed": 20,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 50,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 0.10886096954345703,
+        "total_spikes": 178,
+        "total_patterns": 13,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 10,
+        "seed": 30,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 50,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 0.47162461280822754,
+        "total_spikes": 178,
+        "total_patterns": 29,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 10,
+        "seed": 40,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 50,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 0.13407278060913086,
+        "total_spikes": 178,
+        "total_patterns": 8,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 11,
+        "seed": 0,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 100,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 0.39725255966186523,
+        "total_spikes": 228,
+        "total_patterns": 32,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 11,
+        "seed": 11,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 100,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 0.13102483749389648,
+        "total_spikes": 228,
+        "total_patterns": 21,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 11,
+        "seed": 22,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 100,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 0.28810620307922363,
+        "total_spikes": 228,
+        "total_patterns": 58,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 11,
+        "seed": 33,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 100,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 0.47104406356811523,
+        "total_spikes": 228,
+        "total_patterns": 73,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 11,
+        "seed": 44,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 100,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 0.21835827827453613,
+        "total_spikes": 228,
+        "total_patterns": 24,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 12,
+        "seed": 0,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 3.276656150817871,
+        "total_spikes": 628,
+        "total_patterns": 1285,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 12,
+        "seed": 12,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 2.920132637023926,
+        "total_spikes": 628,
+        "total_patterns": 1332,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 12,
+        "seed": 24,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 2.865377902984619,
+        "total_spikes": 628,
+        "total_patterns": 1439,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 12,
+        "seed": 36,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 2.9372124671936035,
+        "total_spikes": 628,
+        "total_patterns": 1399,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 12,
+        "seed": 48,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 500,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 2.958972930908203,
+        "total_spikes": 628,
+        "total_patterns": 1381,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 13,
+        "seed": 0,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 1000,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 18.33300232887268,
+        "total_spikes": 1128,
+        "total_patterns": 9556,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 13,
+        "seed": 13,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 1000,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 17.570342779159546,
+        "total_spikes": 1128,
+        "total_patterns": 9056,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 13,
+        "seed": 26,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 1000,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 14.35881233215332,
+        "total_spikes": 1127,
+        "total_patterns": 9184,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 13,
+        "seed": 39,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 1000,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 14.766130685806274,
+        "total_spikes": 1128,
+        "total_patterns": 9424,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 13,
+        "seed": 52,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 1000,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 18.110002756118774,
+        "total_spikes": 1128,
+        "total_patterns": 9630,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 14,
+        "seed": 0,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 2000,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 167.92166900634766,
+        "total_spikes": 2128,
+        "total_patterns": 91082,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 14,
+        "seed": 14,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 2000,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 167.20798254013062,
+        "total_spikes": 2128,
+        "total_patterns": 91610,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 14,
+        "seed": 28,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 2000,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 147.10722398757935,
+        "total_spikes": 2128,
+        "total_patterns": 87258,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 14,
+        "seed": 42,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 2000,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 163.351478099823,
+        "total_spikes": 2128,
+        "total_patterns": 94395,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 14,
+        "seed": 56,
+        "M": 1,
+        "N": 40,
+        "D": 51,
+        "T": 1000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 16,
+        "noise": 2000,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 152.65205574035645,
+        "total_spikes": 2128,
+        "total_patterns": 94243,
+        "SM_acc": [
+            1.0
+        ]
+    }
+]
