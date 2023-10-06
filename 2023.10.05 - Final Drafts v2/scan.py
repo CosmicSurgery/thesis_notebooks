@@ -135,7 +135,7 @@ def _get_sim_mats(windows, T_labels, N_labels):
                     common_rows = windows_n[i].intersection(windows_n[j])
                     num_identical_rows = len(common_rows)
                     x[i,j] = len(common_rows)/min(len(windows_n[i]),len(windows_n[j]))
-            np.fill_diagonal(x,0)# make sure the diagonals are zero, this is important the more spikes there are...
+#             np.fill_diagonal(x,0)# make sure the diagonals are zero, this is important the more spikes there are...
             sim_mats[n] = x-1 
         print(f"Generating sim matrices {round(n*100/np.max(N_labels))}%", end = "\r")
     return sim_mats
