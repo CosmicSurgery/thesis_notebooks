@@ -1,0 +1,502 @@
+[
+    {
+        "idx": 0,
+        "seed": 1,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 0,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 249.79574465751648,
+        "total_spikes": 100,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 0,
+        "seed": 2,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 0,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 235.2090356349945,
+        "total_spikes": 100,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 0,
+        "seed": 3,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 0,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 238.8337049484253,
+        "total_spikes": 100,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 0,
+        "seed": 4,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 0,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 231.3388957977295,
+        "total_spikes": 100,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 0,
+        "seed": 5,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 0,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 229.60534524917603,
+        "total_spikes": 100,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 1,
+        "seed": 2,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 100,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 289.30955362319946,
+        "total_spikes": 200,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 1,
+        "seed": 4,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 100,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 298.455340385437,
+        "total_spikes": 200,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 1,
+        "seed": 6,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 100,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 322.16424107551575,
+        "total_spikes": 200,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 1,
+        "seed": 8,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 100,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 314.44074296951294,
+        "total_spikes": 200,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 1,
+        "seed": 10,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 100,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 299.6746861934662,
+        "total_spikes": 200,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 2,
+        "seed": 3,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 200,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 446.53456354141235,
+        "total_spikes": 300,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 2,
+        "seed": 6,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 200,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 407.3113305568695,
+        "total_spikes": 300,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 2,
+        "seed": 9,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 200,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 401.5688679218292,
+        "total_spikes": 300,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 2,
+        "seed": 12,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 200,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 402.17032170295715,
+        "total_spikes": 300,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 2,
+        "seed": 15,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 200,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 397.56265902519226,
+        "total_spikes": 300,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 3,
+        "seed": 4,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 300,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 516.0855405330658,
+        "total_spikes": 400,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 3,
+        "seed": 8,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 300,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 521.8118238449097,
+        "total_spikes": 400,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 3,
+        "seed": 12,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 300,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 481.80739545822144,
+        "total_spikes": 400,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 3,
+        "seed": 16,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 300,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 634.2384250164032,
+        "total_spikes": 399,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 3,
+        "seed": 20,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 300,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 905.6471948623657,
+        "total_spikes": 400,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 4,
+        "seed": 5,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 400,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1255.1873135566711,
+        "total_spikes": 500,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 4,
+        "seed": 10,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 400,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1334.304399728775,
+        "total_spikes": 500,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 4,
+        "seed": 15,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 400,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1317.3227961063385,
+        "total_spikes": 500,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 4,
+        "seed": 20,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 400,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 2373.821469783783,
+        "total_spikes": 500,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "idx": 4,
+        "seed": 25,
+        "M": 1,
+        "N": 100,
+        "D": 71,
+        "T": 1000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 20,
+        "noise": 400,
+        "window_time": NaN,
+        "cluster_time": NaN,
+        "sequence_time": NaN,
+        "total_time": 1437.5989291667938,
+        "total_spikes": 500,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    }
+]
