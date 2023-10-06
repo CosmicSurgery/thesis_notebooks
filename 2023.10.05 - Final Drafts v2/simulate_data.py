@@ -36,7 +36,7 @@ def create_palette(num_labels=1000):
 
 def plot_raster(params, A_dense, A_sparse, B_dense, B_sparse, K_dense, K_sparse):
     import matplotlib.ticker as ticker
-    N, M, D, T, seed, num_SM_events, SM_total_spikes, noise = params['N'], params['M'], params['D'], params['T'], params['seed'],params['num_SM_events'],params['SM_total_spikes'],params['noise']  
+    N, M, D, T, seed, num_SM_events, SM_total_spikes, noise = params['N'], params['M'], params['D'], params['T'], params['seed'],params['SM_repetitions'],params['spikes_in_SM'],params['noise']  
 
     fig, ax = plt.subplot_mosaic('AB;CD;EE;FF;GG', figsize=(12, 12), gridspec_kw={'height_ratios': [1, 1, 1, 1, 1]})
 
