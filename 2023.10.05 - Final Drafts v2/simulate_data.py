@@ -115,12 +115,12 @@ def generate_synthetic_data(params, plot=False):
 
     # Loop through each 'M' dimension
     K_rand = np.random.rand(N,D,M)
-    K_dense = np.zeros_like(K_rand)
+    K_dense = np.zeros_like(K_rand,dtype='int')
 
     B_rand = np.random.rand(M,T-D)
-    B_dense = np.zeros_like(B_rand) 
+    B_dense = np.zeros_like(B_rand,dtype='int') 
 
-    A_dense = np.zeros((N,T,M+1))
+    A_dense = np.zeros((N,T,M+1),dtype='int')
     if noise != 0: # if noise is zero then we want to keep the matrix of zeros
         A_rand = np.random.rand(N,T)
         sorted_indices_A = np.argsort(A_rand[:,:],axis=None)

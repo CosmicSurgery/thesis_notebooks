@@ -96,8 +96,6 @@ def scan_raster(T_labels, N_labels, window_dim = None):
         pattern_times = np.array([sorted_x[sorted_y==i][0] for i in range(1,max(pattern_repetition_labels)+1)])
         all_times.append(pattern_times)
     
-    end = time.time()
-    sequence_time = end-start
         
     print("Extracting templates...",end="\r")
 
@@ -106,9 +104,9 @@ def scan_raster(T_labels, N_labels, window_dim = None):
     for i in range(len(all_times)):
         pattern = []
         pattern_template.append([])
-        for time in all_times[i]:
-            condition = (T_labels > time-window_dim*2) & (T_labels < time + window_dim*2)
-            pattern = [tuple(k) for k in np.array([T_labels[condition]-time, N_labels[condition]]).T] # creating a list of tuples
+        for time_ in all_times[i]:
+            condition = (T_labels > time_-window_dim*2) & (T_labels < time_ + window_dim*2)
+            pattern = [tuple(k) for k in np.array([T_labels[condition]-time_, N_labels[condition]]).T] # creating a list of tuples
             pattern_template[-1] += pattern # adds all points of each pattern to template_pattern
             patterns.append(pattern)
         print(f"Extracting templates... {round(100*i/len(all_times))}%",end="\r")
@@ -120,6 +118,8 @@ def scan_raster(T_labels, N_labels, window_dim = None):
         pattern_template[i] = np.array(pattern)[np.where(counts == np.max(counts))[0]]
         pattern_template[i][:,0] -= min(pattern_template[i][:,0])
         pattern_template[i] = np.unique(pattern_template[i],axis=0)
+    end = time.time()
+    sequence_time = end-start
         
     return pattern_template, sublist_keys_filt, window_time, cluster_time, sequence_time
 
