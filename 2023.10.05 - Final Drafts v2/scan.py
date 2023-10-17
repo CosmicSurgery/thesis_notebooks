@@ -118,6 +118,7 @@ def scan_raster(T_labels, N_labels, window_dim = None):
         pattern_template[i] = np.array(pattern)[np.where(counts == np.max(counts))[0]]
         pattern_template[i][:,0] -= min(pattern_template[i][:,0])
         pattern_template[i] = np.unique(pattern_template[i],axis=0)
+        print(f"Building templates... {round(100*i/len(pattern_template))}%",end="\r")
     end = time.time()
     sequence_time = end-start
         
