@@ -57,7 +57,7 @@ def scan_raster(T_labels, N_labels, window_dim = None):
     start = time.time()
     for i, cutoff in enumerate(list_cutoffs): 
         clusters = _cluster_windows(cutoff, N_labels, sim_mats)
-        cluster_sq, _sq_counts, sublist_keys_filt = _check_seq(clusters, T_labels, N_labels)
+        cluster_sq, sublist_keys_filt = _check_seq(clusters, T_labels, N_labels)
 
         if len(sublist_keys_filt) != 0:
             max_ = np.max([len(k) for k in sublist_keys_filt])
@@ -68,7 +68,7 @@ def scan_raster(T_labels, N_labels, window_dim = None):
         print(f'progress - {100*i/max_iter}% | cutoff - {cutoff} | opt_cutoff - {opt_cutoff} | most_detections - {max_seq_rep}',end='\r')
 
     clusters = _cluster_windows(opt_cutoff, N_labels, sim_mats)
-    cluster_sq, sq_counts, sublist_keys_filt = _check_seq(clusters, T_labels, N_labels)
+    cluster_sq, sublist_keys_filt = _check_seq(clusters, T_labels, N_labels)
     
     end = time.time()
     cluster_time = end-start
@@ -162,24 +162,12 @@ def _check_seq(clusters, T_labels, N_labels):
         else:
             cluster_sq[str_temp] = [cluster]
 
-    # Convert the list of lists to a set of tuples to remove duplicates
-    unique_sublists_set = set(tuple(sublist) for sublist in time_differences if sublist)
-
-    # Convert the set of tuples back to a list of lists
-    unique_sublists = [list(sublist) for sublist in unique_sublists_set]
-
     # Count the occurrences of each unique sublist in the original list
     sublist_counts = Counter(tuple(sublist) for sublist in time_differences if sublist)
 
-    # Print the unique sublists and their respective counts
-    sq_counts = np.zeros(len(sublist_counts)) 
-    for i,sublist in enumerate(unique_sublists):
-        count = sublist_counts[tuple(sublist)]
-        sq_counts[i] = count
-    #     print(f"{sublist}: {count} occurrences")
     sublist_keys_np = np.array([list(key) for key in sublist_counts.keys()],dtype='object')
     sublist_keys_filt = sublist_keys_np[np.array(list(sublist_counts.values())) >1] # only bother clustering repetitions that appear for more than one neuron
     sublist_keys_filt = [list(k) for k in sublist_keys_filt]
     
-    return cluster_sq, sq_counts, sublist_keys_filt
+    return cluster_sq, sublist_keys_filt
 

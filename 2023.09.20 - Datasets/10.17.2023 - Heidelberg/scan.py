@@ -117,12 +117,13 @@ def scan_raster(T_labels, N_labels, window_dim = None):
         counts = [pattern.count(k) for k in pattern]
         pattern_template[i] = np.array(pattern)[np.where(counts == np.max(counts))[0]]
         pattern_template[i][:,0] -= min(pattern_template[i][:,0])
+        all_times[i] += min(pattern_template[i][:,0])
         pattern_template[i] = np.unique(pattern_template[i],axis=0)
         print(f"Building templates... {round(100*i/len(pattern_template))}%",end="\r")
     end = time.time()
     sequence_time = end-start
         
-    return pattern_template, sublist_keys_filt, window_time, cluster_time, sequence_time
+    return pattern_template, all_times, window_time, cluster_time, sequence_time
 
 def _get_sim_mats(windows, T_labels, N_labels):
     sim_mats = np.zeros(np.max(N_labels)+1,dtype='object')
