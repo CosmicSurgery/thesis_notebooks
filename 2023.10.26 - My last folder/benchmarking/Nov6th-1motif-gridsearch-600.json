@@ -1,0 +1,7292 @@
+[
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.040899038314819336,
+        "cluster_time": 1.0534262657165527,
+        "sequence_time": 0.004998922348022461,
+        "total_time": 1.116917610168457,
+        "total_spikes": 604,
+        "total_patterns": 13,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.04009127616882324,
+        "cluster_time": 1.0449297428131104,
+        "sequence_time": 0.0,
+        "total_time": 1.094878911972046,
+        "total_spikes": 604,
+        "total_patterns": 6,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.041010379791259766,
+        "cluster_time": 1.07663893699646,
+        "sequence_time": 0.0,
+        "total_time": 1.1198945045471191,
+        "total_spikes": 604,
+        "total_patterns": 1,
+        "SM_acc": [
+            0.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.03510761260986328,
+        "cluster_time": 1.1107475757598877,
+        "sequence_time": 0.001992940902709961,
+        "total_time": 1.154829502105713,
+        "total_spikes": 604,
+        "total_patterns": 6,
+        "SM_acc": [
+            0.5
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.04217362403869629,
+        "cluster_time": 1.0954866409301758,
+        "sequence_time": 0.006868600845336914,
+        "total_time": 1.1601860523223877,
+        "total_spikes": 604,
+        "total_patterns": 13,
+        "SM_acc": [
+            0.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.03651928901672363,
+        "cluster_time": 1.029820203781128,
+        "sequence_time": 0.0027179718017578125,
+        "total_time": 1.092897891998291,
+        "total_spikes": 606,
+        "total_patterns": 17,
+        "SM_acc": [
+            0.6666666666666666
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.03270101547241211,
+        "cluster_time": 1.0990931987762451,
+        "sequence_time": 0.0,
+        "total_time": 1.134673833847046,
+        "total_spikes": 606,
+        "total_patterns": 1,
+        "SM_acc": [
+            0.3333333333333333
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.038901567459106445,
+        "cluster_time": 1.130408763885498,
+        "sequence_time": 0.012169837951660156,
+        "total_time": 1.2040235996246338,
+        "total_spikes": 606,
+        "total_patterns": 21,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.04011869430541992,
+        "cluster_time": 1.0659244060516357,
+        "sequence_time": 0.000995635986328125,
+        "total_time": 1.1099827289581299,
+        "total_spikes": 606,
+        "total_patterns": 2,
+        "SM_acc": [
+            0.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.03508424758911133,
+        "cluster_time": 1.0273065567016602,
+        "sequence_time": 0.0,
+        "total_time": 1.0623908042907715,
+        "total_spikes": 606,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.03661608695983887,
+        "cluster_time": 1.0676405429840088,
+        "sequence_time": 0.0,
+        "total_time": 1.1064553260803223,
+        "total_spikes": 608,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.03299760818481445,
+        "cluster_time": 1.0512287616729736,
+        "sequence_time": 0.00864553451538086,
+        "total_time": 1.1178467273712158,
+        "total_spikes": 608,
+        "total_patterns": 21,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.03619813919067383,
+        "cluster_time": 1.190037488937378,
+        "sequence_time": 0.0,
+        "total_time": 1.2262356281280518,
+        "total_spikes": 608,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.03929543495178223,
+        "cluster_time": 1.105360507965088,
+        "sequence_time": 0.005042076110839844,
+        "total_time": 1.1775155067443848,
+        "total_spikes": 608,
+        "total_patterns": 21,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.039724111557006836,
+        "cluster_time": 1.0805561542510986,
+        "sequence_time": 0.0059833526611328125,
+        "total_time": 1.1488754749298096,
+        "total_spikes": 608,
+        "total_patterns": 15,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.04506516456604004,
+        "cluster_time": 1.0276975631713867,
+        "sequence_time": 0.0,
+        "total_time": 1.0727627277374268,
+        "total_spikes": 610,
+        "total_patterns": 1,
+        "SM_acc": [
+            0.2
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.03892087936401367,
+        "cluster_time": 1.2202951908111572,
+        "sequence_time": 0.0,
+        "total_time": 1.259216070175171,
+        "total_spikes": 610,
+        "total_patterns": 2,
+        "SM_acc": [
+            0.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.029926538467407227,
+        "cluster_time": 1.0056788921356201,
+        "sequence_time": 0.0041234493255615234,
+        "total_time": 1.066910982131958,
+        "total_spikes": 610,
+        "total_patterns": 21,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.04870772361755371,
+        "cluster_time": 1.100081205368042,
+        "sequence_time": 0.0,
+        "total_time": 1.1507344245910645,
+        "total_spikes": 610,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.0336451530456543,
+        "cluster_time": 0.9814713001251221,
+        "sequence_time": 0.011723995208740234,
+        "total_time": 1.0360915660858154,
+        "total_spikes": 610,
+        "total_patterns": 8,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.035184621810913086,
+        "cluster_time": 0.9488067626953125,
+        "sequence_time": 0.004528045654296875,
+        "total_time": 1.004476547241211,
+        "total_spikes": 612,
+        "total_patterns": 14,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04000592231750488,
+        "cluster_time": 0.947521448135376,
+        "sequence_time": 0.007219076156616211,
+        "total_time": 1.0229442119598389,
+        "total_spikes": 612,
+        "total_patterns": 20,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.031598806381225586,
+        "cluster_time": 0.9620883464813232,
+        "sequence_time": 0.007703065872192383,
+        "total_time": 1.021596908569336,
+        "total_spikes": 612,
+        "total_patterns": 15,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.03002643585205078,
+        "cluster_time": 1.0283496379852295,
+        "sequence_time": 0.00598597526550293,
+        "total_time": 1.081317663192749,
+        "total_spikes": 612,
+        "total_patterns": 17,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.03524947166442871,
+        "cluster_time": 1.1090412139892578,
+        "sequence_time": 0.0,
+        "total_time": 1.1442906856536865,
+        "total_spikes": 612,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.0376589298248291,
+        "cluster_time": 1.0495576858520508,
+        "sequence_time": 0.005209445953369141,
+        "total_time": 1.1145975589752197,
+        "total_spikes": 614,
+        "total_patterns": 20,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.0335237979888916,
+        "cluster_time": 0.9789812564849854,
+        "sequence_time": 0.009975433349609375,
+        "total_time": 1.0471751689910889,
+        "total_spikes": 614,
+        "total_patterns": 21,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.03903627395629883,
+        "cluster_time": 0.994891881942749,
+        "sequence_time": 0.0009951591491699219,
+        "total_time": 1.0359182357788086,
+        "total_spikes": 614,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.03507685661315918,
+        "cluster_time": 1.1501374244689941,
+        "sequence_time": 0.005043506622314453,
+        "total_time": 1.205106258392334,
+        "total_spikes": 614,
+        "total_patterns": 13,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.03759503364562988,
+        "cluster_time": 1.0183336734771729,
+        "sequence_time": 0.0010008811950683594,
+        "total_time": 1.0588853359222412,
+        "total_spikes": 614,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.029562950134277344,
+        "cluster_time": 1.1025009155273438,
+        "sequence_time": 0.005585908889770508,
+        "total_time": 1.1595206260681152,
+        "total_spikes": 616,
+        "total_patterns": 15,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.03996539115905762,
+        "cluster_time": 1.0208406448364258,
+        "sequence_time": 0.005022525787353516,
+        "total_time": 1.0679621696472168,
+        "total_spikes": 616,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.03872871398925781,
+        "cluster_time": 1.0202083587646484,
+        "sequence_time": 0.0,
+        "total_time": 1.0599353313446045,
+        "total_spikes": 616,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.037816762924194336,
+        "cluster_time": 1.031641960144043,
+        "sequence_time": 0.0011219978332519531,
+        "total_time": 1.0714893341064453,
+        "total_spikes": 616,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.03793478012084961,
+        "cluster_time": 1.0442919731140137,
+        "sequence_time": 0.0,
+        "total_time": 1.0852203369140625,
+        "total_spikes": 616,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.03481888771057129,
+        "cluster_time": 1.1302623748779297,
+        "sequence_time": 0.009647846221923828,
+        "total_time": 1.2047433853149414,
+        "total_spikes": 618,
+        "total_patterns": 19,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.04737997055053711,
+        "cluster_time": 0.9957914352416992,
+        "sequence_time": 0.006590843200683594,
+        "total_time": 1.0674042701721191,
+        "total_spikes": 618,
+        "total_patterns": 15,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.04519391059875488,
+        "cluster_time": 1.0627450942993164,
+        "sequence_time": 0.0049877166748046875,
+        "total_time": 1.1250734329223633,
+        "total_spikes": 618,
+        "total_patterns": 13,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.03332686424255371,
+        "cluster_time": 1.0750360488891602,
+        "sequence_time": 0.0059812068939208984,
+        "total_time": 1.1260342597961426,
+        "total_spikes": 618,
+        "total_patterns": 11,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.035959720611572266,
+        "cluster_time": 1.0354890823364258,
+        "sequence_time": 0.003989458084106445,
+        "total_time": 1.0879662036895752,
+        "total_spikes": 618,
+        "total_patterns": 11,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.03676033020019531,
+        "cluster_time": 1.0179660320281982,
+        "sequence_time": 0.0020389556884765625,
+        "total_time": 1.0750436782836914,
+        "total_spikes": 620,
+        "total_patterns": 16,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.023600339889526367,
+        "cluster_time": 1.0812671184539795,
+        "sequence_time": 0.006689310073852539,
+        "total_time": 1.1115567684173584,
+        "total_spikes": 620,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.0350644588470459,
+        "cluster_time": 1.0077991485595703,
+        "sequence_time": 0.0,
+        "total_time": 1.0448598861694336,
+        "total_spikes": 620,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.03638911247253418,
+        "cluster_time": 1.1189355850219727,
+        "sequence_time": 0.011201620101928711,
+        "total_time": 1.1952438354492188,
+        "total_spikes": 620,
+        "total_patterns": 22,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 2,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.03428816795349121,
+        "cluster_time": 1.03458833694458,
+        "sequence_time": 0.0,
+        "total_time": 1.0688765048980713,
+        "total_spikes": 620,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.05350852012634277,
+        "cluster_time": 0.9659225940704346,
+        "sequence_time": 0.0,
+        "total_time": 1.022996187210083,
+        "total_spikes": 606,
+        "total_patterns": 2,
+        "SM_acc": [
+            0.5
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.03536558151245117,
+        "cluster_time": 0.907078742980957,
+        "sequence_time": 0.0010366439819335938,
+        "total_time": 0.9454758167266846,
+        "total_spikes": 606,
+        "total_patterns": 2,
+        "SM_acc": [
+            0.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.03390932083129883,
+        "cluster_time": 1.0218796730041504,
+        "sequence_time": 0.006202220916748047,
+        "total_time": 1.0715560913085938,
+        "total_spikes": 606,
+        "total_patterns": 11,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.0359041690826416,
+        "cluster_time": 0.9972307682037354,
+        "sequence_time": 0.0,
+        "total_time": 1.03718900680542,
+        "total_spikes": 606,
+        "total_patterns": 2,
+        "SM_acc": [
+            0.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.04127383232116699,
+        "cluster_time": 0.941253662109375,
+        "sequence_time": 0.0008821487426757812,
+        "total_time": 0.9851477146148682,
+        "total_spikes": 606,
+        "total_patterns": 1,
+        "SM_acc": [
+            0.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.02883434295654297,
+        "cluster_time": 0.9902191162109375,
+        "sequence_time": 0.011945486068725586,
+        "total_time": 1.053664207458496,
+        "total_spikes": 609,
+        "total_patterns": 18,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.034952402114868164,
+        "cluster_time": 1.0133640766143799,
+        "sequence_time": 0.006986379623413086,
+        "total_time": 1.0732002258300781,
+        "total_spikes": 609,
+        "total_patterns": 20,
+        "SM_acc": [
+            0.6666666666666666
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.036522865295410156,
+        "cluster_time": 1.024871587753296,
+        "sequence_time": 0.000743865966796875,
+        "total_time": 1.0631327629089355,
+        "total_spikes": 609,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.03769540786743164,
+        "cluster_time": 1.004474401473999,
+        "sequence_time": 0.0,
+        "total_time": 1.0443763732910156,
+        "total_spikes": 609,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.03528547286987305,
+        "cluster_time": 0.9576075077056885,
+        "sequence_time": 0.0010333061218261719,
+        "total_time": 1.0041728019714355,
+        "total_spikes": 609,
+        "total_patterns": 9,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.03806042671203613,
+        "cluster_time": 1.0660686492919922,
+        "sequence_time": 0.0019533634185791016,
+        "total_time": 1.1100850105285645,
+        "total_spikes": 612,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.033948421478271484,
+        "cluster_time": 0.9328646659851074,
+        "sequence_time": 0.0009951591491699219,
+        "total_time": 0.9708127975463867,
+        "total_spikes": 612,
+        "total_patterns": 2,
+        "SM_acc": [
+            0.5
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.030692577362060547,
+        "cluster_time": 0.9065477848052979,
+        "sequence_time": 0.002034902572631836,
+        "total_time": 0.9526395797729492,
+        "total_spikes": 612,
+        "total_patterns": 13,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.039139509201049805,
+        "cluster_time": 0.9676742553710938,
+        "sequence_time": 0.000997781753540039,
+        "total_time": 1.011800765991211,
+        "total_spikes": 612,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.04219508171081543,
+        "cluster_time": 1.0726141929626465,
+        "sequence_time": 0.001998424530029297,
+        "total_time": 1.120755672454834,
+        "total_spikes": 612,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.04154467582702637,
+        "cluster_time": 1.1662406921386719,
+        "sequence_time": 0.0009920597076416016,
+        "total_time": 1.2097413539886475,
+        "total_spikes": 615,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.037866830825805664,
+        "cluster_time": 1.0642750263214111,
+        "sequence_time": 0.002992391586303711,
+        "total_time": 1.112173318862915,
+        "total_spikes": 615,
+        "total_patterns": 7,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.04130125045776367,
+        "cluster_time": 1.0193843841552734,
+        "sequence_time": 0.0,
+        "total_time": 1.060685634613037,
+        "total_spikes": 615,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.04099917411804199,
+        "cluster_time": 0.9590258598327637,
+        "sequence_time": 0.0,
+        "total_time": 1.0000250339508057,
+        "total_spikes": 615,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.036452531814575195,
+        "cluster_time": 1.0213189125061035,
+        "sequence_time": 0.0,
+        "total_time": 1.0628139972686768,
+        "total_spikes": 615,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04064464569091797,
+        "cluster_time": 0.934746503829956,
+        "sequence_time": 0.0002086162567138672,
+        "total_time": 0.9766004085540771,
+        "total_spikes": 618,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04226183891296387,
+        "cluster_time": 1.004857063293457,
+        "sequence_time": 0.0019369125366210938,
+        "total_time": 1.051055908203125,
+        "total_spikes": 618,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.03000164031982422,
+        "cluster_time": 0.9724102020263672,
+        "sequence_time": 0.002035856246948242,
+        "total_time": 1.0093905925750732,
+        "total_spikes": 618,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.0382838249206543,
+        "cluster_time": 1.0800795555114746,
+        "sequence_time": 0.00339508056640625,
+        "total_time": 1.1227550506591797,
+        "total_spikes": 618,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.03955841064453125,
+        "cluster_time": 1.097318172454834,
+        "sequence_time": 0.0,
+        "total_time": 1.1368765830993652,
+        "total_spikes": 618,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.04599595069885254,
+        "cluster_time": 1.2142255306243896,
+        "sequence_time": 0.0072133541107177734,
+        "total_time": 1.296217679977417,
+        "total_spikes": 621,
+        "total_patterns": 15,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.03148627281188965,
+        "cluster_time": 1.0551347732543945,
+        "sequence_time": 0.0,
+        "total_time": 1.0928316116333008,
+        "total_spikes": 621,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.03510880470275879,
+        "cluster_time": 1.1010692119598389,
+        "sequence_time": 0.0010380744934082031,
+        "total_time": 1.1393389701843262,
+        "total_spikes": 621,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.0376744270324707,
+        "cluster_time": 0.9818742275238037,
+        "sequence_time": 0.0,
+        "total_time": 1.0195486545562744,
+        "total_spikes": 621,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.03710436820983887,
+        "cluster_time": 1.0298371315002441,
+        "sequence_time": 0.0,
+        "total_time": 1.071984052658081,
+        "total_spikes": 621,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.040013790130615234,
+        "cluster_time": 0.9913234710693359,
+        "sequence_time": 0.0010344982147216797,
+        "total_time": 1.0323717594146729,
+        "total_spikes": 624,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.04474925994873047,
+        "cluster_time": 1.0842044353485107,
+        "sequence_time": 0.005038022994995117,
+        "total_time": 1.1491167545318604,
+        "total_spikes": 624,
+        "total_patterns": 11,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.040007829666137695,
+        "cluster_time": 1.1152079105377197,
+        "sequence_time": 0.0,
+        "total_time": 1.1552157402038574,
+        "total_spikes": 624,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.04038238525390625,
+        "cluster_time": 1.045287847518921,
+        "sequence_time": 0.0,
+        "total_time": 1.0856702327728271,
+        "total_spikes": 624,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.03801155090332031,
+        "cluster_time": 0.9917919635772705,
+        "sequence_time": 0.004976511001586914,
+        "total_time": 1.0472931861877441,
+        "total_spikes": 624,
+        "total_patterns": 11,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.048621177673339844,
+        "cluster_time": 1.0918166637420654,
+        "sequence_time": 0.0050508975982666016,
+        "total_time": 1.1656057834625244,
+        "total_spikes": 627,
+        "total_patterns": 18,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.06941580772399902,
+        "cluster_time": 1.019521951675415,
+        "sequence_time": 0.0021162033081054688,
+        "total_time": 1.0959205627441406,
+        "total_spikes": 626,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.03930497169494629,
+        "cluster_time": 1.0700757503509521,
+        "sequence_time": 0.004643917083740234,
+        "total_time": 1.1289751529693604,
+        "total_spikes": 627,
+        "total_patterns": 15,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.03052377700805664,
+        "cluster_time": 1.0795016288757324,
+        "sequence_time": 0.0,
+        "total_time": 1.1150293350219727,
+        "total_spikes": 627,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.04728960990905762,
+        "cluster_time": 0.9918429851531982,
+        "sequence_time": 0.0,
+        "total_time": 1.0391325950622559,
+        "total_spikes": 627,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.04355144500732422,
+        "cluster_time": 1.0086817741394043,
+        "sequence_time": 0.0,
+        "total_time": 1.0573296546936035,
+        "total_spikes": 630,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.04028820991516113,
+        "cluster_time": 1.0001511573791504,
+        "sequence_time": 0.0046291351318359375,
+        "total_time": 1.065406084060669,
+        "total_spikes": 630,
+        "total_patterns": 21,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.038072824478149414,
+        "cluster_time": 1.0275945663452148,
+        "sequence_time": 0.0019905567169189453,
+        "total_time": 1.073096513748169,
+        "total_spikes": 630,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.0406641960144043,
+        "cluster_time": 1.016909122467041,
+        "sequence_time": 0.0059814453125,
+        "total_time": 1.0842976570129395,
+        "total_spikes": 630,
+        "total_patterns": 14,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 3,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.03899812698364258,
+        "cluster_time": 1.0149767398834229,
+        "sequence_time": 0.005552530288696289,
+        "total_time": 1.0605247020721436,
+        "total_spikes": 630,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.03989410400390625,
+        "cluster_time": 1.0618939399719238,
+        "sequence_time": 0.003978252410888672,
+        "total_time": 1.1217899322509766,
+        "total_spikes": 608,
+        "total_patterns": 12,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.03775286674499512,
+        "cluster_time": 0.9633252620697021,
+        "sequence_time": 0.005136728286743164,
+        "total_time": 1.0288045406341553,
+        "total_spikes": 608,
+        "total_patterns": 18,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.032193660736083984,
+        "cluster_time": 0.9425935745239258,
+        "sequence_time": 0.005140781402587891,
+        "total_time": 1.002082347869873,
+        "total_spikes": 608,
+        "total_patterns": 18,
+        "SM_acc": [
+            0.5
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.04824495315551758,
+        "cluster_time": 1.1534132957458496,
+        "sequence_time": 0.004972219467163086,
+        "total_time": 1.2210590839385986,
+        "total_spikes": 608,
+        "total_patterns": 13,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.041571855545043945,
+        "cluster_time": 1.2911906242370605,
+        "sequence_time": 0.005077362060546875,
+        "total_time": 1.3566131591796875,
+        "total_spikes": 608,
+        "total_patterns": 13,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.049262046813964844,
+        "cluster_time": 1.2940104007720947,
+        "sequence_time": 0.0,
+        "total_time": 1.3572561740875244,
+        "total_spikes": 612,
+        "total_patterns": 8,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.060033321380615234,
+        "cluster_time": 1.3199143409729004,
+        "sequence_time": 0.005038738250732422,
+        "total_time": 1.384986400604248,
+        "total_spikes": 612,
+        "total_patterns": 1,
+        "SM_acc": [
+            0.6666666666666666
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.0494084358215332,
+        "cluster_time": 1.2964110374450684,
+        "sequence_time": 0.0039899349212646484,
+        "total_time": 1.3559648990631104,
+        "total_spikes": 612,
+        "total_patterns": 7,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.04477334022521973,
+        "cluster_time": 1.5131540298461914,
+        "sequence_time": 0.004086017608642578,
+        "total_time": 1.5694785118103027,
+        "total_spikes": 612,
+        "total_patterns": 6,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.06186962127685547,
+        "cluster_time": 1.3248307704925537,
+        "sequence_time": 0.0,
+        "total_time": 1.3964104652404785,
+        "total_spikes": 612,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.0381622314453125,
+        "cluster_time": 1.3484504222869873,
+        "sequence_time": 0.0,
+        "total_time": 1.3898289203643799,
+        "total_spikes": 616,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.06184267997741699,
+        "cluster_time": 1.3398613929748535,
+        "sequence_time": 0.0050048828125,
+        "total_time": 1.4221336841583252,
+        "total_spikes": 616,
+        "total_patterns": 9,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.05003976821899414,
+        "cluster_time": 1.4051730632781982,
+        "sequence_time": 0.0050525665283203125,
+        "total_time": 1.467538595199585,
+        "total_spikes": 616,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.06111025810241699,
+        "cluster_time": 1.2994484901428223,
+        "sequence_time": 0.0,
+        "total_time": 1.3661153316497803,
+        "total_spikes": 616,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.04480767250061035,
+        "cluster_time": 1.3711724281311035,
+        "sequence_time": 0.007632732391357422,
+        "total_time": 1.4438972473144531,
+        "total_spikes": 616,
+        "total_patterns": 11,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.0523228645324707,
+        "cluster_time": 1.4351162910461426,
+        "sequence_time": 0.005125284194946289,
+        "total_time": 1.5213487148284912,
+        "total_spikes": 620,
+        "total_patterns": 19,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.06477880477905273,
+        "cluster_time": 1.310354471206665,
+        "sequence_time": 0.0009968280792236328,
+        "total_time": 1.3800818920135498,
+        "total_spikes": 620,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.05912446975708008,
+        "cluster_time": 1.3346939086914062,
+        "sequence_time": 0.0019974708557128906,
+        "total_time": 1.4017963409423828,
+        "total_spikes": 620,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.06190776824951172,
+        "cluster_time": 1.3080482482910156,
+        "sequence_time": 0.0,
+        "total_time": 1.3750019073486328,
+        "total_spikes": 620,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.05046987533569336,
+        "cluster_time": 1.345578670501709,
+        "sequence_time": 0.0019752979278564453,
+        "total_time": 1.4030325412750244,
+        "total_spikes": 620,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.059485435485839844,
+        "cluster_time": 1.3421602249145508,
+        "sequence_time": 0.0009968280792236328,
+        "total_time": 1.4078190326690674,
+        "total_spikes": 624,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.05101132392883301,
+        "cluster_time": 1.0398616790771484,
+        "sequence_time": 0.0010302066802978516,
+        "total_time": 1.093897819519043,
+        "total_spikes": 624,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04019498825073242,
+        "cluster_time": 1.1950960159301758,
+        "sequence_time": 0.005023956298828125,
+        "total_time": 1.2517554759979248,
+        "total_spikes": 624,
+        "total_patterns": 8,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.06299376487731934,
+        "cluster_time": 1.376124620437622,
+        "sequence_time": 0.014163732528686523,
+        "total_time": 1.4891457557678223,
+        "total_spikes": 624,
+        "total_patterns": 22,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.0542752742767334,
+        "cluster_time": 1.3295929431915283,
+        "sequence_time": 0.0020606517791748047,
+        "total_time": 1.3859963417053223,
+        "total_spikes": 624,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.041355133056640625,
+        "cluster_time": 1.4021246433258057,
+        "sequence_time": 0.008182764053344727,
+        "total_time": 1.4567933082580566,
+        "total_spikes": 628,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.05971169471740723,
+        "cluster_time": 1.5256757736206055,
+        "sequence_time": 0.001991748809814453,
+        "total_time": 1.5893783569335938,
+        "total_spikes": 628,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.06006360054016113,
+        "cluster_time": 1.4427433013916016,
+        "sequence_time": 0.008198738098144531,
+        "total_time": 1.5352697372436523,
+        "total_spikes": 628,
+        "total_patterns": 14,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.05384540557861328,
+        "cluster_time": 1.4660758972167969,
+        "sequence_time": 0.0,
+        "total_time": 1.5284390449523926,
+        "total_spikes": 628,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.04166698455810547,
+        "cluster_time": 1.5126714706420898,
+        "sequence_time": 0.00989222526550293,
+        "total_time": 1.5954828262329102,
+        "total_spikes": 628,
+        "total_patterns": 18,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.06962060928344727,
+        "cluster_time": 1.5162994861602783,
+        "sequence_time": 0.005045175552368164,
+        "total_time": 1.5973379611968994,
+        "total_spikes": 632,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.06353640556335449,
+        "cluster_time": 1.4614801406860352,
+        "sequence_time": 0.00767207145690918,
+        "total_time": 1.5684936046600342,
+        "total_spikes": 632,
+        "total_patterns": 14,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.06252098083496094,
+        "cluster_time": 1.3998546600341797,
+        "sequence_time": 0.002010822296142578,
+        "total_time": 1.4683449268341064,
+        "total_spikes": 632,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.04407095909118652,
+        "cluster_time": 1.5697300434112549,
+        "sequence_time": 0.002995729446411133,
+        "total_time": 1.6224637031555176,
+        "total_spikes": 632,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.06101036071777344,
+        "cluster_time": 1.6228342056274414,
+        "sequence_time": 0.007241964340209961,
+        "total_time": 1.7211310863494873,
+        "total_spikes": 632,
+        "total_patterns": 19,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.06670546531677246,
+        "cluster_time": 1.693558931350708,
+        "sequence_time": 0.015400886535644531,
+        "total_time": 1.8048789501190186,
+        "total_spikes": 636,
+        "total_patterns": 15,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.06666445732116699,
+        "cluster_time": 1.5731911659240723,
+        "sequence_time": 0.008525371551513672,
+        "total_time": 1.6547186374664307,
+        "total_spikes": 636,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.06154918670654297,
+        "cluster_time": 1.3205726146697998,
+        "sequence_time": 0.0026559829711914062,
+        "total_time": 1.389340877532959,
+        "total_spikes": 636,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.04844260215759277,
+        "cluster_time": 1.1618924140930176,
+        "sequence_time": 0.002910614013671875,
+        "total_time": 1.2169911861419678,
+        "total_spikes": 636,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.04678225517272949,
+        "cluster_time": 1.0602238178253174,
+        "sequence_time": 0.0,
+        "total_time": 1.1120448112487793,
+        "total_spikes": 636,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.04659867286682129,
+        "cluster_time": 1.087717056274414,
+        "sequence_time": 0.0019948482513427734,
+        "total_time": 1.1393046379089355,
+        "total_spikes": 640,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.04000234603881836,
+        "cluster_time": 0.9969394207000732,
+        "sequence_time": 0.002995014190673828,
+        "total_time": 1.04691481590271,
+        "total_spikes": 640,
+        "total_patterns": 6,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.044219017028808594,
+        "cluster_time": 1.0804288387298584,
+        "sequence_time": 5.6743621826171875e-05,
+        "total_time": 1.1247045993804932,
+        "total_spikes": 640,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.05037117004394531,
+        "cluster_time": 0.9991497993469238,
+        "sequence_time": 0.0,
+        "total_time": 1.06309175491333,
+        "total_spikes": 640,
+        "total_patterns": 9,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 4,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.04796338081359863,
+        "cluster_time": 1.0039799213409424,
+        "sequence_time": 0.005859375,
+        "total_time": 1.0613200664520264,
+        "total_spikes": 640,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.04409027099609375,
+        "cluster_time": 1.006112813949585,
+        "sequence_time": 0.007200717926025391,
+        "total_time": 1.082444190979004,
+        "total_spikes": 610,
+        "total_patterns": 19,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.060337066650390625,
+        "cluster_time": 1.0231907367706299,
+        "sequence_time": 0.011239767074584961,
+        "total_time": 1.1138465404510498,
+        "total_spikes": 610,
+        "total_patterns": 14,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.03839468955993652,
+        "cluster_time": 1.0681416988372803,
+        "sequence_time": 0.004990100860595703,
+        "total_time": 1.1278488636016846,
+        "total_spikes": 610,
+        "total_patterns": 15,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.033025264739990234,
+        "cluster_time": 0.9521474838256836,
+        "sequence_time": 0.0009908676147460938,
+        "total_time": 0.9891519546508789,
+        "total_spikes": 610,
+        "total_patterns": 2,
+        "SM_acc": [
+            0.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.043250322341918945,
+        "cluster_time": 1.1249403953552246,
+        "sequence_time": 0.005067348480224609,
+        "total_time": 1.1894676685333252,
+        "total_spikes": 610,
+        "total_patterns": 16,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.031102418899536133,
+        "cluster_time": 1.1058292388916016,
+        "sequence_time": 0.011474609375,
+        "total_time": 1.1683547496795654,
+        "total_spikes": 615,
+        "total_patterns": 12,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.04590177536010742,
+        "cluster_time": 1.0001661777496338,
+        "sequence_time": 0.0,
+        "total_time": 1.0551373958587646,
+        "total_spikes": 615,
+        "total_patterns": 7,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.05593681335449219,
+        "cluster_time": 1.0592293739318848,
+        "sequence_time": 0.009741783142089844,
+        "total_time": 1.1438040733337402,
+        "total_spikes": 615,
+        "total_patterns": 18,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.03516364097595215,
+        "cluster_time": 0.972463846206665,
+        "sequence_time": 0.0049855709075927734,
+        "total_time": 1.0245764255523682,
+        "total_spikes": 615,
+        "total_patterns": 11,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.03989863395690918,
+        "cluster_time": 0.9487745761871338,
+        "sequence_time": 0.00322723388671875,
+        "total_time": 0.9928994178771973,
+        "total_spikes": 615,
+        "total_patterns": 7,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.04318499565124512,
+        "cluster_time": 0.9465243816375732,
+        "sequence_time": 0.0016493797302246094,
+        "total_time": 0.9923598766326904,
+        "total_spikes": 620,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.054015398025512695,
+        "cluster_time": 0.9825761318206787,
+        "sequence_time": 0.001995086669921875,
+        "total_time": 1.0425758361816406,
+        "total_spikes": 620,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.0518641471862793,
+        "cluster_time": 1.1233584880828857,
+        "sequence_time": 0.0,
+        "total_time": 1.1768393516540527,
+        "total_spikes": 620,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.039775848388671875,
+        "cluster_time": 0.9199867248535156,
+        "sequence_time": 0.010208368301391602,
+        "total_time": 0.9897351264953613,
+        "total_spikes": 620,
+        "total_patterns": 19,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.04097104072570801,
+        "cluster_time": 0.9827573299407959,
+        "sequence_time": 0.005073070526123047,
+        "total_time": 1.0355162620544434,
+        "total_spikes": 620,
+        "total_patterns": 5,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.039133310317993164,
+        "cluster_time": 1.0360078811645508,
+        "sequence_time": 0.0,
+        "total_time": 1.075141191482544,
+        "total_spikes": 625,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.031172752380371094,
+        "cluster_time": 0.9778406620025635,
+        "sequence_time": 0.0,
+        "total_time": 1.01416015625,
+        "total_spikes": 625,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.03409004211425781,
+        "cluster_time": 1.0302772521972656,
+        "sequence_time": 0.0,
+        "total_time": 1.0665013790130615,
+        "total_spikes": 625,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.05193972587585449,
+        "cluster_time": 0.9143540859222412,
+        "sequence_time": 0.0010380744934082031,
+        "total_time": 0.9673318862915039,
+        "total_spikes": 625,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.03365778923034668,
+        "cluster_time": 0.9812130928039551,
+        "sequence_time": 0.0,
+        "total_time": 1.0148708820343018,
+        "total_spikes": 625,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.038702964782714844,
+        "cluster_time": 0.9832513332366943,
+        "sequence_time": 0.0,
+        "total_time": 1.0268223285675049,
+        "total_spikes": 630,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.042090654373168945,
+        "cluster_time": 1.0017898082733154,
+        "sequence_time": 0.0,
+        "total_time": 1.0541365146636963,
+        "total_spikes": 630,
+        "total_patterns": 7,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.035311222076416016,
+        "cluster_time": 1.0696420669555664,
+        "sequence_time": 0.0009737014770507812,
+        "total_time": 1.1089186668395996,
+        "total_spikes": 630,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.050048828125,
+        "cluster_time": 0.9825139045715332,
+        "sequence_time": 0.0,
+        "total_time": 1.0325627326965332,
+        "total_spikes": 630,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.03897809982299805,
+        "cluster_time": 1.0170209407806396,
+        "sequence_time": 0.0,
+        "total_time": 1.0559990406036377,
+        "total_spikes": 630,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.04078793525695801,
+        "cluster_time": 0.9590561389923096,
+        "sequence_time": 0.0,
+        "total_time": 1.005528450012207,
+        "total_spikes": 635,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.04076242446899414,
+        "cluster_time": 0.9916343688964844,
+        "sequence_time": 0.0,
+        "total_time": 1.0323967933654785,
+        "total_spikes": 635,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.04125094413757324,
+        "cluster_time": 1.0379669666290283,
+        "sequence_time": 0.0,
+        "total_time": 1.0792179107666016,
+        "total_spikes": 635,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.037308692932128906,
+        "cluster_time": 1.0288310050964355,
+        "sequence_time": 0.004213809967041016,
+        "total_time": 1.081580400466919,
+        "total_spikes": 635,
+        "total_patterns": 11,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.03484916687011719,
+        "cluster_time": 0.9800419807434082,
+        "sequence_time": 0.0010330677032470703,
+        "total_time": 1.0200819969177246,
+        "total_spikes": 635,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.038956642150878906,
+        "cluster_time": 0.9912230968475342,
+        "sequence_time": 0.0,
+        "total_time": 1.030179738998413,
+        "total_spikes": 639,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.036681413650512695,
+        "cluster_time": 0.9902441501617432,
+        "sequence_time": 0.0,
+        "total_time": 1.0319302082061768,
+        "total_spikes": 640,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.043797969818115234,
+        "cluster_time": 0.9599947929382324,
+        "sequence_time": 0.0,
+        "total_time": 1.0089116096496582,
+        "total_spikes": 640,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.03703165054321289,
+        "cluster_time": 0.9584109783172607,
+        "sequence_time": 0.002665281295776367,
+        "total_time": 0.99810791015625,
+        "total_spikes": 640,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.0436251163482666,
+        "cluster_time": 1.1213994026184082,
+        "sequence_time": 0.0019588470458984375,
+        "total_time": 1.1701297760009766,
+        "total_spikes": 640,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.034630775451660156,
+        "cluster_time": 1.0480055809020996,
+        "sequence_time": 0.0009975433349609375,
+        "total_time": 1.086622953414917,
+        "total_spikes": 645,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.0371854305267334,
+        "cluster_time": 1.0881953239440918,
+        "sequence_time": 0.0,
+        "total_time": 1.1300058364868164,
+        "total_spikes": 645,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.03794693946838379,
+        "cluster_time": 1.1952826976776123,
+        "sequence_time": 0.004306316375732422,
+        "total_time": 1.2421517372131348,
+        "total_spikes": 645,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.04004502296447754,
+        "cluster_time": 1.0169517993927002,
+        "sequence_time": 0.0019061565399169922,
+        "total_time": 1.0589029788970947,
+        "total_spikes": 645,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.045136451721191406,
+        "cluster_time": 1.0309185981750488,
+        "sequence_time": 0.0,
+        "total_time": 1.0760550498962402,
+        "total_spikes": 645,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.0499873161315918,
+        "cluster_time": 1.032325029373169,
+        "sequence_time": 0.005123138427734375,
+        "total_time": 1.0901165008544922,
+        "total_spikes": 650,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.04186058044433594,
+        "cluster_time": 1.0680363178253174,
+        "sequence_time": 0.010041236877441406,
+        "total_time": 1.1346995830535889,
+        "total_spikes": 650,
+        "total_patterns": 14,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.04993295669555664,
+        "cluster_time": 0.9949898719787598,
+        "sequence_time": 0.005005598068237305,
+        "total_time": 1.0646779537200928,
+        "total_spikes": 650,
+        "total_patterns": 9,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.06193351745605469,
+        "cluster_time": 1.1417922973632812,
+        "sequence_time": 0.0031347274780273438,
+        "total_time": 1.2118990421295166,
+        "total_spikes": 650,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 5,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.04003572463989258,
+        "cluster_time": 1.1249029636383057,
+        "sequence_time": 0.0,
+        "total_time": 1.1749677658081055,
+        "total_spikes": 650,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.04214787483215332,
+        "cluster_time": 1.0601935386657715,
+        "sequence_time": 0.00580906867980957,
+        "total_time": 1.1203274726867676,
+        "total_spikes": 612,
+        "total_patterns": 13,
+        "SM_acc": [
+            0.5
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.03355050086975098,
+        "cluster_time": 1.0108599662780762,
+        "sequence_time": 0.01000666618347168,
+        "total_time": 1.07676100730896,
+        "total_spikes": 612,
+        "total_patterns": 17,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.035201311111450195,
+        "cluster_time": 0.9715368747711182,
+        "sequence_time": 0.0,
+        "total_time": 1.0087332725524902,
+        "total_spikes": 612,
+        "total_patterns": 2,
+        "SM_acc": [
+            0.6666666666666666
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.03449201583862305,
+        "cluster_time": 1.0651109218597412,
+        "sequence_time": 0.0,
+        "total_time": 1.0996029376983643,
+        "total_spikes": 612,
+        "total_patterns": 1,
+        "SM_acc": [
+            0.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.04243183135986328,
+        "cluster_time": 1.024343490600586,
+        "sequence_time": 0.006936550140380859,
+        "total_time": 1.0946869850158691,
+        "total_spikes": 612,
+        "total_patterns": 17,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.03992724418640137,
+        "cluster_time": 1.0348877906799316,
+        "sequence_time": 0.00698399543762207,
+        "total_time": 1.0987553596496582,
+        "total_spikes": 618,
+        "total_patterns": 18,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.036375999450683594,
+        "cluster_time": 1.0217838287353516,
+        "sequence_time": 0.005122184753417969,
+        "total_time": 1.0732011795043945,
+        "total_spikes": 618,
+        "total_patterns": 8,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.045056819915771484,
+        "cluster_time": 0.97041916847229,
+        "sequence_time": 0.000997304916381836,
+        "total_time": 1.0174713134765625,
+        "total_spikes": 618,
+        "total_patterns": 1,
+        "SM_acc": [
+            0.6666666666666666
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.0407867431640625,
+        "cluster_time": 1.056333303451538,
+        "sequence_time": 0.0009970664978027344,
+        "total_time": 1.1001126766204834,
+        "total_spikes": 618,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.04750847816467285,
+        "cluster_time": 0.9987747669219971,
+        "sequence_time": 0.005127906799316406,
+        "total_time": 1.0651774406433105,
+        "total_spikes": 618,
+        "total_patterns": 15,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.03318476676940918,
+        "cluster_time": 1.0496156215667725,
+        "sequence_time": 0.0,
+        "total_time": 1.092064380645752,
+        "total_spikes": 624,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.047618865966796875,
+        "cluster_time": 1.1146302223205566,
+        "sequence_time": 0.009389638900756836,
+        "total_time": 1.1798453330993652,
+        "total_spikes": 624,
+        "total_patterns": 7,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.04135251045227051,
+        "cluster_time": 0.9650161266326904,
+        "sequence_time": 0.001995086669921875,
+        "total_time": 1.0143470764160156,
+        "total_spikes": 624,
+        "total_patterns": 6,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.03999447822570801,
+        "cluster_time": 1.0002315044403076,
+        "sequence_time": 0.004703044891357422,
+        "total_time": 1.0573310852050781,
+        "total_spikes": 624,
+        "total_patterns": 11,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.04651188850402832,
+        "cluster_time": 1.1785078048706055,
+        "sequence_time": 0.0011341571807861328,
+        "total_time": 1.2271878719329834,
+        "total_spikes": 624,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.03728818893432617,
+        "cluster_time": 0.9576237201690674,
+        "sequence_time": 0.005086183547973633,
+        "total_time": 1.0058319568634033,
+        "total_spikes": 630,
+        "total_patterns": 6,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.039845943450927734,
+        "cluster_time": 0.967858076095581,
+        "sequence_time": 0.0,
+        "total_time": 1.0077040195465088,
+        "total_spikes": 630,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.03930211067199707,
+        "cluster_time": 1.0626850128173828,
+        "sequence_time": 0.007663726806640625,
+        "total_time": 1.1336205005645752,
+        "total_spikes": 630,
+        "total_patterns": 19,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.04141807556152344,
+        "cluster_time": 1.0135631561279297,
+        "sequence_time": 0.0,
+        "total_time": 1.0549812316894531,
+        "total_spikes": 630,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.031046390533447266,
+        "cluster_time": 1.2250592708587646,
+        "sequence_time": 0.002993345260620117,
+        "total_time": 1.2636291980743408,
+        "total_spikes": 630,
+        "total_patterns": 5,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04205894470214844,
+        "cluster_time": 1.0856568813323975,
+        "sequence_time": 0.0,
+        "total_time": 1.127715826034546,
+        "total_spikes": 636,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.039906978607177734,
+        "cluster_time": 0.9717044830322266,
+        "sequence_time": 0.007601499557495117,
+        "total_time": 1.0292468070983887,
+        "total_spikes": 636,
+        "total_patterns": 7,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.040317535400390625,
+        "cluster_time": 1.0313568115234375,
+        "sequence_time": 0.0009679794311523438,
+        "total_time": 1.0745964050292969,
+        "total_spikes": 636,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.03701305389404297,
+        "cluster_time": 1.0171620845794678,
+        "sequence_time": 0.0010268688201904297,
+        "total_time": 1.0561978816986084,
+        "total_spikes": 636,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04254031181335449,
+        "cluster_time": 0.9984800815582275,
+        "sequence_time": 0.0,
+        "total_time": 1.0450384616851807,
+        "total_spikes": 636,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.06896638870239258,
+        "cluster_time": 1.0506231784820557,
+        "sequence_time": 0.005060434341430664,
+        "total_time": 1.1269607543945312,
+        "total_spikes": 642,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.04388880729675293,
+        "cluster_time": 1.1592977046966553,
+        "sequence_time": 0.0012431144714355469,
+        "total_time": 1.2064361572265625,
+        "total_spikes": 642,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.05785179138183594,
+        "cluster_time": 0.9313943386077881,
+        "sequence_time": 0.0010006427764892578,
+        "total_time": 0.9932308197021484,
+        "total_spikes": 642,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.043573617935180664,
+        "cluster_time": 0.9913930892944336,
+        "sequence_time": 0.005045652389526367,
+        "total_time": 1.0400123596191406,
+        "total_spikes": 642,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.03198075294494629,
+        "cluster_time": 0.9990663528442383,
+        "sequence_time": 0.0009949207305908203,
+        "total_time": 1.0340304374694824,
+        "total_spikes": 642,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.04208111763000488,
+        "cluster_time": 1.0702524185180664,
+        "sequence_time": 0.0,
+        "total_time": 1.1174657344818115,
+        "total_spikes": 648,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.04256272315979004,
+        "cluster_time": 1.062668800354004,
+        "sequence_time": 0.005044460296630859,
+        "total_time": 1.113576889038086,
+        "total_spikes": 648,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.04748129844665527,
+        "cluster_time": 1.0058653354644775,
+        "sequence_time": 0.0010340213775634766,
+        "total_time": 1.0553820133209229,
+        "total_spikes": 648,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.03964495658874512,
+        "cluster_time": 0.9903895854949951,
+        "sequence_time": 0.0046231746673583984,
+        "total_time": 1.0397052764892578,
+        "total_spikes": 648,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.04328656196594238,
+        "cluster_time": 1.0108342170715332,
+        "sequence_time": 0.0,
+        "total_time": 1.059321403503418,
+        "total_spikes": 648,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.03873944282531738,
+        "cluster_time": 1.0501682758331299,
+        "sequence_time": 0.0,
+        "total_time": 1.0957908630371094,
+        "total_spikes": 654,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.0400242805480957,
+        "cluster_time": 1.0505590438842773,
+        "sequence_time": 0.0019991397857666016,
+        "total_time": 1.0955414772033691,
+        "total_spikes": 654,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.05006551742553711,
+        "cluster_time": 1.0564627647399902,
+        "sequence_time": 0.0021314620971679688,
+        "total_time": 1.1086597442626953,
+        "total_spikes": 654,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.0443425178527832,
+        "cluster_time": 1.0869851112365723,
+        "sequence_time": 0.0009996891021728516,
+        "total_time": 1.13431978225708,
+        "total_spikes": 654,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.04511523246765137,
+        "cluster_time": 1.0383806228637695,
+        "sequence_time": 0.001994609832763672,
+        "total_time": 1.0903730392456055,
+        "total_spikes": 654,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.055155038833618164,
+        "cluster_time": 1.0671935081481934,
+        "sequence_time": 0.0,
+        "total_time": 1.1223485469818115,
+        "total_spikes": 660,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.04009556770324707,
+        "cluster_time": 0.9852578639984131,
+        "sequence_time": 0.0,
+        "total_time": 1.0316250324249268,
+        "total_spikes": 660,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.040343523025512695,
+        "cluster_time": 0.9899210929870605,
+        "sequence_time": 0.0,
+        "total_time": 1.0302646160125732,
+        "total_spikes": 660,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.031928300857543945,
+        "cluster_time": 1.0628337860107422,
+        "sequence_time": 0.0072171688079833984,
+        "total_time": 1.1019792556762695,
+        "total_spikes": 660,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 6,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.039717912673950195,
+        "cluster_time": 1.1198537349700928,
+        "sequence_time": 0.0019915103912353516,
+        "total_time": 1.1645512580871582,
+        "total_spikes": 660,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.03496670722961426,
+        "cluster_time": 1.0466444492340088,
+        "sequence_time": 0.0,
+        "total_time": 1.089569330215454,
+        "total_spikes": 614,
+        "total_patterns": 1,
+        "SM_acc": [
+            0.6666666666666666
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.035047292709350586,
+        "cluster_time": 1.0052621364593506,
+        "sequence_time": 0.005049705505371094,
+        "total_time": 1.0653777122497559,
+        "total_spikes": 614,
+        "total_patterns": 20,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.035330772399902344,
+        "cluster_time": 0.9196772575378418,
+        "sequence_time": 0.0072023868560791016,
+        "total_time": 0.9774303436279297,
+        "total_spikes": 614,
+        "total_patterns": 15,
+        "SM_acc": [
+            0.5
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.03323650360107422,
+        "cluster_time": 0.9614253044128418,
+        "sequence_time": 0.0,
+        "total_time": 0.9956967830657959,
+        "total_spikes": 614,
+        "total_patterns": 1,
+        "SM_acc": [
+            0.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.04230380058288574,
+        "cluster_time": 0.8996970653533936,
+        "sequence_time": 0.0051000118255615234,
+        "total_time": 0.957202672958374,
+        "total_spikes": 614,
+        "total_patterns": 11,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.034853219985961914,
+        "cluster_time": 0.930396556854248,
+        "sequence_time": 0.0,
+        "total_time": 0.9748644828796387,
+        "total_spikes": 621,
+        "total_patterns": 7,
+        "SM_acc": [
+            0.3333333333333333
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.04041719436645508,
+        "cluster_time": 1.025681972503662,
+        "sequence_time": 0.002056598663330078,
+        "total_time": 1.0803823471069336,
+        "total_spikes": 621,
+        "total_patterns": 8,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.04189109802246094,
+        "cluster_time": 0.9441077709197998,
+        "sequence_time": 0.0,
+        "total_time": 0.9928581714630127,
+        "total_spikes": 621,
+        "total_patterns": 1,
+        "SM_acc": [
+            0.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.04694414138793945,
+        "cluster_time": 0.9598610401153564,
+        "sequence_time": 0.00868368148803711,
+        "total_time": 1.030965805053711,
+        "total_spikes": 621,
+        "total_patterns": 14,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.0392000675201416,
+        "cluster_time": 0.9495952129364014,
+        "sequence_time": 0.004318952560424805,
+        "total_time": 0.9976584911346436,
+        "total_spikes": 621,
+        "total_patterns": 5,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.03513216972351074,
+        "cluster_time": 1.011012315750122,
+        "sequence_time": 0.004053354263305664,
+        "total_time": 1.0501978397369385,
+        "total_spikes": 628,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.03489995002746582,
+        "cluster_time": 0.9323127269744873,
+        "sequence_time": 0.0,
+        "total_time": 0.9798963069915771,
+        "total_spikes": 628,
+        "total_patterns": 8,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.03619217872619629,
+        "cluster_time": 0.9698812961578369,
+        "sequence_time": 0.0035924911499023438,
+        "total_time": 1.0198585987091064,
+        "total_spikes": 628,
+        "total_patterns": 11,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.036806344985961914,
+        "cluster_time": 0.982837438583374,
+        "sequence_time": 0.0,
+        "total_time": 1.030907154083252,
+        "total_spikes": 628,
+        "total_patterns": 8,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.037798404693603516,
+        "cluster_time": 0.9738717079162598,
+        "sequence_time": 0.0,
+        "total_time": 1.0227365493774414,
+        "total_spikes": 628,
+        "total_patterns": 8,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.03615427017211914,
+        "cluster_time": 0.9674367904663086,
+        "sequence_time": 0.0031430721282958984,
+        "total_time": 1.012854814529419,
+        "total_spikes": 635,
+        "total_patterns": 5,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.050652503967285156,
+        "cluster_time": 0.9836573600769043,
+        "sequence_time": 0.0009944438934326172,
+        "total_time": 1.038179636001587,
+        "total_spikes": 635,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.05033755302429199,
+        "cluster_time": 1.0677552223205566,
+        "sequence_time": 0.002131938934326172,
+        "total_time": 1.1265127658843994,
+        "total_spikes": 635,
+        "total_patterns": 5,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.03969264030456543,
+        "cluster_time": 0.9602687358856201,
+        "sequence_time": 0.011015176773071289,
+        "total_time": 1.0109765529632568,
+        "total_spikes": 635,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.04047679901123047,
+        "cluster_time": 1.109226942062378,
+        "sequence_time": 0.0,
+        "total_time": 1.1497037410736084,
+        "total_spikes": 635,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04207134246826172,
+        "cluster_time": 1.0079824924468994,
+        "sequence_time": 0.0027778148651123047,
+        "total_time": 1.0528316497802734,
+        "total_spikes": 642,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04437255859375,
+        "cluster_time": 1.0838382244110107,
+        "sequence_time": 0.000997304916381836,
+        "total_time": 1.1312012672424316,
+        "total_spikes": 642,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04890894889831543,
+        "cluster_time": 1.0461499691009521,
+        "sequence_time": 0.0012993812561035156,
+        "total_time": 1.096358299255371,
+        "total_spikes": 642,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04668378829956055,
+        "cluster_time": 1.0764713287353516,
+        "sequence_time": 0.0030319690704345703,
+        "total_time": 1.131174087524414,
+        "total_spikes": 642,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.042550086975097656,
+        "cluster_time": 1.0101501941680908,
+        "sequence_time": 0.0,
+        "total_time": 1.0576906204223633,
+        "total_spikes": 642,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.04968881607055664,
+        "cluster_time": 1.000197410583496,
+        "sequence_time": 0.0,
+        "total_time": 1.0549945831298828,
+        "total_spikes": 649,
+        "total_patterns": 5,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.043152809143066406,
+        "cluster_time": 1.0190584659576416,
+        "sequence_time": 0.0011501312255859375,
+        "total_time": 1.06660795211792,
+        "total_spikes": 649,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.039731502532958984,
+        "cluster_time": 1.107933759689331,
+        "sequence_time": 0.002840757369995117,
+        "total_time": 1.1505060195922852,
+        "total_spikes": 649,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.050579071044921875,
+        "cluster_time": 1.037163496017456,
+        "sequence_time": 0.0019683837890625,
+        "total_time": 1.0953733921051025,
+        "total_spikes": 649,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.04259657859802246,
+        "cluster_time": 1.0958468914031982,
+        "sequence_time": 0.003992557525634766,
+        "total_time": 1.146454095840454,
+        "total_spikes": 649,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.03783917427062988,
+        "cluster_time": 1.100205898284912,
+        "sequence_time": 0.009900331497192383,
+        "total_time": 1.1529541015625,
+        "total_spikes": 656,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.04291081428527832,
+        "cluster_time": 1.0271079540252686,
+        "sequence_time": 0.002576589584350586,
+        "total_time": 1.077627420425415,
+        "total_spikes": 656,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.04329228401184082,
+        "cluster_time": 1.0324828624725342,
+        "sequence_time": 0.007204771041870117,
+        "total_time": 1.0829799175262451,
+        "total_spikes": 656,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.04351186752319336,
+        "cluster_time": 1.08988356590271,
+        "sequence_time": 0.001995086669921875,
+        "total_time": 1.1373889446258545,
+        "total_spikes": 656,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.0401766300201416,
+        "cluster_time": 1.141226053237915,
+        "sequence_time": 0.0050487518310546875,
+        "total_time": 1.1864514350891113,
+        "total_spikes": 656,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.049875497817993164,
+        "cluster_time": 1.0835387706756592,
+        "sequence_time": 0.0009965896606445312,
+        "total_time": 1.1364061832427979,
+        "total_spikes": 663,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.04516005516052246,
+        "cluster_time": 1.1449241638183594,
+        "sequence_time": 0.005123615264892578,
+        "total_time": 1.1952078342437744,
+        "total_spikes": 663,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.050653696060180664,
+        "cluster_time": 1.0000519752502441,
+        "sequence_time": 0.001995086669921875,
+        "total_time": 1.055692195892334,
+        "total_spikes": 663,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.03879427909851074,
+        "cluster_time": 1.1023330688476562,
+        "sequence_time": 0.0027017593383789062,
+        "total_time": 1.1448559761047363,
+        "total_spikes": 663,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.04024696350097656,
+        "cluster_time": 1.007472038269043,
+        "sequence_time": 0.0025882720947265625,
+        "total_time": 1.050307273864746,
+        "total_spikes": 663,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.0497593879699707,
+        "cluster_time": 1.1166458129882812,
+        "sequence_time": 0.004978656768798828,
+        "total_time": 1.180009365081787,
+        "total_spikes": 670,
+        "total_patterns": 6,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.03910064697265625,
+        "cluster_time": 1.0706300735473633,
+        "sequence_time": 0.00894618034362793,
+        "total_time": 1.12441086769104,
+        "total_spikes": 670,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.04375743865966797,
+        "cluster_time": 1.09004545211792,
+        "sequence_time": 0.002991199493408203,
+        "total_time": 1.1387913227081299,
+        "total_spikes": 670,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.04985809326171875,
+        "cluster_time": 1.0776104927062988,
+        "sequence_time": 0.0019609928131103516,
+        "total_time": 1.132422924041748,
+        "total_spikes": 670,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 7,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.0437164306640625,
+        "cluster_time": 1.0809447765350342,
+        "sequence_time": 0.0,
+        "total_time": 1.1347486972808838,
+        "total_spikes": 670,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.050293684005737305,
+        "cluster_time": 1.0199339389801025,
+        "sequence_time": 0.0,
+        "total_time": 1.0902647972106934,
+        "total_spikes": 616,
+        "total_patterns": 16,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.027701139450073242,
+        "cluster_time": 1.0659191608428955,
+        "sequence_time": 0.004987955093383789,
+        "total_time": 1.1125702857971191,
+        "total_spikes": 616,
+        "total_patterns": 13,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.03349757194519043,
+        "cluster_time": 1.0464386940002441,
+        "sequence_time": 0.0,
+        "total_time": 1.0799362659454346,
+        "total_spikes": 616,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.03699350357055664,
+        "cluster_time": 0.9820375442504883,
+        "sequence_time": 5.817413330078125e-05,
+        "total_time": 1.021343469619751,
+        "total_spikes": 616,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.044762372970581055,
+        "cluster_time": 1.0229294300079346,
+        "sequence_time": 0.0,
+        "total_time": 1.084984540939331,
+        "total_spikes": 616,
+        "total_patterns": 11,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.06006121635437012,
+        "cluster_time": 1.0947463512420654,
+        "sequence_time": 0.0,
+        "total_time": 1.1598560810089111,
+        "total_spikes": 624,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.040897369384765625,
+        "cluster_time": 1.234267234802246,
+        "sequence_time": 0.007061481475830078,
+        "total_time": 1.2992539405822754,
+        "total_spikes": 624,
+        "total_patterns": 19,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.04302835464477539,
+        "cluster_time": 1.0665051937103271,
+        "sequence_time": 0.010525941848754883,
+        "total_time": 1.1468145847320557,
+        "total_spikes": 624,
+        "total_patterns": 20,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.03596806526184082,
+        "cluster_time": 1.0639913082122803,
+        "sequence_time": 0.008709907531738281,
+        "total_time": 1.1377956867218018,
+        "total_spikes": 624,
+        "total_patterns": 21,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.037802696228027344,
+        "cluster_time": 0.9220936298370361,
+        "sequence_time": 0.000850677490234375,
+        "total_time": 0.961411714553833,
+        "total_spikes": 624,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.03551530838012695,
+        "cluster_time": 1.0229437351226807,
+        "sequence_time": 0.007237911224365234,
+        "total_time": 1.1064133644104004,
+        "total_spikes": 632,
+        "total_patterns": 21,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.053560495376586914,
+        "cluster_time": 1.0298993587493896,
+        "sequence_time": 0.004987001419067383,
+        "total_time": 1.1026854515075684,
+        "total_spikes": 632,
+        "total_patterns": 7,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.06174755096435547,
+        "cluster_time": 1.0992238521575928,
+        "sequence_time": 0.006539583206176758,
+        "total_time": 1.1873645782470703,
+        "total_spikes": 632,
+        "total_patterns": 16,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.051979780197143555,
+        "cluster_time": 1.0533130168914795,
+        "sequence_time": 0.0019903182983398438,
+        "total_time": 1.1102805137634277,
+        "total_spikes": 632,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.04221653938293457,
+        "cluster_time": 1.0823097229003906,
+        "sequence_time": 0.004987239837646484,
+        "total_time": 1.1471929550170898,
+        "total_spikes": 632,
+        "total_patterns": 15,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.03498959541320801,
+        "cluster_time": 1.0811080932617188,
+        "sequence_time": 0.0029926300048828125,
+        "total_time": 1.1204006671905518,
+        "total_spikes": 640,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.03257036209106445,
+        "cluster_time": 1.0321190357208252,
+        "sequence_time": 0.0,
+        "total_time": 1.0646893978118896,
+        "total_spikes": 640,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.04641437530517578,
+        "cluster_time": 1.0701186656951904,
+        "sequence_time": 0.0009529590606689453,
+        "total_time": 1.119481086730957,
+        "total_spikes": 640,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.05004072189331055,
+        "cluster_time": 1.00750732421875,
+        "sequence_time": 0.0,
+        "total_time": 1.0613672733306885,
+        "total_spikes": 640,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.17461752891540527,
+        "cluster_time": 1.1077520847320557,
+        "sequence_time": 0.0039975643157958984,
+        "total_time": 1.2963852882385254,
+        "total_spikes": 640,
+        "total_patterns": 6,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04730820655822754,
+        "cluster_time": 1.0872938632965088,
+        "sequence_time": 0.00399017333984375,
+        "total_time": 1.1496036052703857,
+        "total_spikes": 648,
+        "total_patterns": 10,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.05391979217529297,
+        "cluster_time": 1.2147407531738281,
+        "sequence_time": 0.00504302978515625,
+        "total_time": 1.2839696407318115,
+        "total_spikes": 648,
+        "total_patterns": 9,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04901862144470215,
+        "cluster_time": 1.0196988582611084,
+        "sequence_time": 0.0020589828491210938,
+        "total_time": 1.0734338760375977,
+        "total_spikes": 648,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04295706748962402,
+        "cluster_time": 1.01932954788208,
+        "sequence_time": 0.0020279884338378906,
+        "total_time": 1.0663120746612549,
+        "total_spikes": 648,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.052716732025146484,
+        "cluster_time": 1.0570430755615234,
+        "sequence_time": 0.002994060516357422,
+        "total_time": 1.1177582740783691,
+        "total_spikes": 648,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.04438591003417969,
+        "cluster_time": 1.1505799293518066,
+        "sequence_time": 0.0009965896606445312,
+        "total_time": 1.1969971656799316,
+        "total_spikes": 656,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.040303707122802734,
+        "cluster_time": 1.0448472499847412,
+        "sequence_time": 0.0022559165954589844,
+        "total_time": 1.0901377201080322,
+        "total_spikes": 656,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.03937101364135742,
+        "cluster_time": 1.1028785705566406,
+        "sequence_time": 0.0070836544036865234,
+        "total_time": 1.1493332386016846,
+        "total_spikes": 656,
+        "total_patterns": 5,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.07101750373840332,
+        "cluster_time": 1.0682621002197266,
+        "sequence_time": 0.0030357837677001953,
+        "total_time": 1.1471078395843506,
+        "total_spikes": 656,
+        "total_patterns": 6,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.04553055763244629,
+        "cluster_time": 1.1180644035339355,
+        "sequence_time": 0.0,
+        "total_time": 1.1686418056488037,
+        "total_spikes": 656,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.04459404945373535,
+        "cluster_time": 1.1102149486541748,
+        "sequence_time": 0.0,
+        "total_time": 1.1599366664886475,
+        "total_spikes": 664,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.03815436363220215,
+        "cluster_time": 1.084606647491455,
+        "sequence_time": 0.0,
+        "total_time": 1.130321979522705,
+        "total_spikes": 664,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.03950905799865723,
+        "cluster_time": 1.021942377090454,
+        "sequence_time": 0.0042877197265625,
+        "total_time": 1.085242748260498,
+        "total_spikes": 664,
+        "total_patterns": 15,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.03540301322937012,
+        "cluster_time": 1.1161112785339355,
+        "sequence_time": 0.0,
+        "total_time": 1.1565570831298828,
+        "total_spikes": 664,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.05065441131591797,
+        "cluster_time": 1.2009499073028564,
+        "sequence_time": 0.004013538360595703,
+        "total_time": 1.2556178569793701,
+        "total_spikes": 664,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.0455777645111084,
+        "cluster_time": 1.3421549797058105,
+        "sequence_time": 0.003989458084106445,
+        "total_time": 1.396517276763916,
+        "total_spikes": 672,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.04481816291809082,
+        "cluster_time": 1.0826973915100098,
+        "sequence_time": 0.0029976367950439453,
+        "total_time": 1.1335067749023438,
+        "total_spikes": 672,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.05672717094421387,
+        "cluster_time": 1.0924897193908691,
+        "sequence_time": 0.0029921531677246094,
+        "total_time": 1.1561994552612305,
+        "total_spikes": 672,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.044870615005493164,
+        "cluster_time": 1.0942792892456055,
+        "sequence_time": 0.002992391586303711,
+        "total_time": 1.1460952758789062,
+        "total_spikes": 672,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.05585289001464844,
+        "cluster_time": 1.0803921222686768,
+        "sequence_time": 0.0045375823974609375,
+        "total_time": 1.1459848880767822,
+        "total_spikes": 672,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.04177117347717285,
+        "cluster_time": 1.2025189399719238,
+        "sequence_time": 0.009946107864379883,
+        "total_time": 1.2689251899719238,
+        "total_spikes": 680,
+        "total_patterns": 6,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.03901791572570801,
+        "cluster_time": 1.1297039985656738,
+        "sequence_time": 0.0030024051666259766,
+        "total_time": 1.173710584640503,
+        "total_spikes": 680,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.03506326675415039,
+        "cluster_time": 1.4629499912261963,
+        "sequence_time": 0.005986452102661133,
+        "total_time": 1.5109999179840088,
+        "total_spikes": 680,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.07201337814331055,
+        "cluster_time": 1.45585298538208,
+        "sequence_time": 0.0059812068939208984,
+        "total_time": 1.5381033420562744,
+        "total_spikes": 680,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 8,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.07862043380737305,
+        "cluster_time": 1.5771830081939697,
+        "sequence_time": 0.008260726928710938,
+        "total_time": 1.6700489521026611,
+        "total_spikes": 680,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.06377696990966797,
+        "cluster_time": 1.5375001430511475,
+        "sequence_time": 0.0009224414825439453,
+        "total_time": 1.6042227745056152,
+        "total_spikes": 618,
+        "total_patterns": 1,
+        "SM_acc": [
+            0.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.06441831588745117,
+        "cluster_time": 1.3760864734649658,
+        "sequence_time": 0.010078191757202148,
+        "total_time": 1.4680626392364502,
+        "total_spikes": 618,
+        "total_patterns": 16,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.05763053894042969,
+        "cluster_time": 1.4666669368743896,
+        "sequence_time": 0.0022666454315185547,
+        "total_time": 1.5338447093963623,
+        "total_spikes": 618,
+        "total_patterns": 5,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.04520916938781738,
+        "cluster_time": 1.5069911479949951,
+        "sequence_time": 0.010762453079223633,
+        "total_time": 1.5856294631958008,
+        "total_spikes": 618,
+        "total_patterns": 18,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.0548248291015625,
+        "cluster_time": 1.4065210819244385,
+        "sequence_time": 0.0,
+        "total_time": 1.4672226905822754,
+        "total_spikes": 618,
+        "total_patterns": 2,
+        "SM_acc": [
+            0.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.055114030838012695,
+        "cluster_time": 1.3986279964447021,
+        "sequence_time": 0.000997781753540039,
+        "total_time": 1.4758780002593994,
+        "total_spikes": 627,
+        "total_patterns": 15,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.04909062385559082,
+        "cluster_time": 1.3867075443267822,
+        "sequence_time": 0.005600929260253906,
+        "total_time": 1.4592289924621582,
+        "total_spikes": 627,
+        "total_patterns": 12,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.06109476089477539,
+        "cluster_time": 1.4184248447418213,
+        "sequence_time": 0.001031637191772461,
+        "total_time": 1.4992027282714844,
+        "total_spikes": 627,
+        "total_patterns": 12,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.04890751838684082,
+        "cluster_time": 1.431173324584961,
+        "sequence_time": 0.011929988861083984,
+        "total_time": 1.510605812072754,
+        "total_spikes": 627,
+        "total_patterns": 14,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.06498360633850098,
+        "cluster_time": 1.4363155364990234,
+        "sequence_time": 0.009393930435180664,
+        "total_time": 1.5311875343322754,
+        "total_spikes": 627,
+        "total_patterns": 15,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.059641361236572266,
+        "cluster_time": 1.491767168045044,
+        "sequence_time": 0.003960371017456055,
+        "total_time": 1.5676655769348145,
+        "total_spikes": 636,
+        "total_patterns": 5,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.07392072677612305,
+        "cluster_time": 1.3451123237609863,
+        "sequence_time": 0.000997304916381836,
+        "total_time": 1.422027826309204,
+        "total_spikes": 636,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.05596590042114258,
+        "cluster_time": 1.4307408332824707,
+        "sequence_time": 0.007699251174926758,
+        "total_time": 1.504167079925537,
+        "total_spikes": 636,
+        "total_patterns": 6,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.05613255500793457,
+        "cluster_time": 1.3862271308898926,
+        "sequence_time": 0.0,
+        "total_time": 1.44736647605896,
+        "total_spikes": 636,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.05865883827209473,
+        "cluster_time": 1.5260260105133057,
+        "sequence_time": 0.009326696395874023,
+        "total_time": 1.608163595199585,
+        "total_spikes": 636,
+        "total_patterns": 10,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.07651019096374512,
+        "cluster_time": 1.4327309131622314,
+        "sequence_time": 0.008058309555053711,
+        "total_time": 1.5502407550811768,
+        "total_spikes": 645,
+        "total_patterns": 19,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.06647109985351562,
+        "cluster_time": 1.5647633075714111,
+        "sequence_time": 0.008147239685058594,
+        "total_time": 1.663642406463623,
+        "total_spikes": 645,
+        "total_patterns": 14,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.07127737998962402,
+        "cluster_time": 1.4019153118133545,
+        "sequence_time": 0.005861520767211914,
+        "total_time": 1.4939818382263184,
+        "total_spikes": 645,
+        "total_patterns": 9,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.05410361289978027,
+        "cluster_time": 1.4901762008666992,
+        "sequence_time": 0.0009903907775878906,
+        "total_time": 1.5470638275146484,
+        "total_spikes": 645,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.05003023147583008,
+        "cluster_time": 1.4068214893341064,
+        "sequence_time": 0.009645462036132812,
+        "total_time": 1.4857444763183594,
+        "total_spikes": 645,
+        "total_patterns": 14,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.05828380584716797,
+        "cluster_time": 1.4173595905303955,
+        "sequence_time": 0.0050508975982666016,
+        "total_time": 1.4906096458435059,
+        "total_spikes": 654,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.05268073081970215,
+        "cluster_time": 1.3010456562042236,
+        "sequence_time": 0.0009968280792236328,
+        "total_time": 1.3567323684692383,
+        "total_spikes": 654,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04781746864318848,
+        "cluster_time": 1.2917137145996094,
+        "sequence_time": 0.0,
+        "total_time": 1.346179723739624,
+        "total_spikes": 654,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.08757519721984863,
+        "cluster_time": 1.4821763038635254,
+        "sequence_time": 0.0,
+        "total_time": 1.5842516422271729,
+        "total_spikes": 654,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.05545353889465332,
+        "cluster_time": 1.430922508239746,
+        "sequence_time": 0.00812220573425293,
+        "total_time": 1.503183364868164,
+        "total_spikes": 654,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.07501053810119629,
+        "cluster_time": 1.47200345993042,
+        "sequence_time": 0.003960132598876953,
+        "total_time": 1.5600252151489258,
+        "total_spikes": 663,
+        "total_patterns": 6,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.07330822944641113,
+        "cluster_time": 1.5142877101898193,
+        "sequence_time": 0.007393598556518555,
+        "total_time": 1.6079888343811035,
+        "total_spikes": 663,
+        "total_patterns": 10,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.06953883171081543,
+        "cluster_time": 1.4503452777862549,
+        "sequence_time": 0.0,
+        "total_time": 1.5198841094970703,
+        "total_spikes": 663,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.06234240531921387,
+        "cluster_time": 1.5364539623260498,
+        "sequence_time": 0.005059003829956055,
+        "total_time": 1.6107456684112549,
+        "total_spikes": 663,
+        "total_patterns": 5,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.09705400466918945,
+        "cluster_time": 1.51534104347229,
+        "sequence_time": 0.004669666290283203,
+        "total_time": 1.622187614440918,
+        "total_spikes": 663,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.06057429313659668,
+        "cluster_time": 1.294050931930542,
+        "sequence_time": 0.005959510803222656,
+        "total_time": 1.364858865737915,
+        "total_spikes": 672,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.0727090835571289,
+        "cluster_time": 1.3864474296569824,
+        "sequence_time": 0.0016183853149414062,
+        "total_time": 1.4607748985290527,
+        "total_spikes": 672,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.04892301559448242,
+        "cluster_time": 1.4643359184265137,
+        "sequence_time": 0.0029754638671875,
+        "total_time": 1.5162343978881836,
+        "total_spikes": 672,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.04897761344909668,
+        "cluster_time": 1.4651236534118652,
+        "sequence_time": 0.0069386959075927734,
+        "total_time": 1.5350675582885742,
+        "total_spikes": 672,
+        "total_patterns": 7,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.07010579109191895,
+        "cluster_time": 1.355940818786621,
+        "sequence_time": 0.006724119186401367,
+        "total_time": 1.4510767459869385,
+        "total_spikes": 672,
+        "total_patterns": 14,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.0635521411895752,
+        "cluster_time": 1.451646327972412,
+        "sequence_time": 0.009466171264648438,
+        "total_time": 1.5306196212768555,
+        "total_spikes": 681,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.07914233207702637,
+        "cluster_time": 1.4443559646606445,
+        "sequence_time": 0.006135463714599609,
+        "total_time": 1.5334856510162354,
+        "total_spikes": 681,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.05583691596984863,
+        "cluster_time": 1.6000092029571533,
+        "sequence_time": 0.008889436721801758,
+        "total_time": 1.6647355556488037,
+        "total_spikes": 681,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.06977224349975586,
+        "cluster_time": 1.6759686470031738,
+        "sequence_time": 0.0029914379119873047,
+        "total_time": 1.7517287731170654,
+        "total_spikes": 681,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.06368637084960938,
+        "cluster_time": 1.5878307819366455,
+        "sequence_time": 0.009211301803588867,
+        "total_time": 1.6803181171417236,
+        "total_spikes": 681,
+        "total_patterns": 8,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.05778908729553223,
+        "cluster_time": 1.680008888244629,
+        "sequence_time": 0.011984825134277344,
+        "total_time": 1.7587871551513672,
+        "total_spikes": 690,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.07910323143005371,
+        "cluster_time": 1.6070466041564941,
+        "sequence_time": 0.010030269622802734,
+        "total_time": 1.7062699794769287,
+        "total_spikes": 690,
+        "total_patterns": 5,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.10045981407165527,
+        "cluster_time": 1.5057024955749512,
+        "sequence_time": 0.002992391586303711,
+        "total_time": 1.6131525039672852,
+        "total_spikes": 690,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.04717302322387695,
+        "cluster_time": 1.3941941261291504,
+        "sequence_time": 0.0042743682861328125,
+        "total_time": 1.4479787349700928,
+        "total_spikes": 690,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 9,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.0660243034362793,
+        "cluster_time": 1.466768741607666,
+        "sequence_time": 0.005591869354248047,
+        "total_time": 1.5383849143981934,
+        "total_spikes": 690,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.05892443656921387,
+        "cluster_time": 1.4428796768188477,
+        "sequence_time": 0.0,
+        "total_time": 1.5031564235687256,
+        "total_spikes": 620,
+        "total_patterns": 1,
+        "SM_acc": [
+            0.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.03553295135498047,
+        "cluster_time": 1.1333024501800537,
+        "sequence_time": 0.0021224021911621094,
+        "total_time": 1.1888196468353271,
+        "total_spikes": 620,
+        "total_patterns": 13,
+        "SM_acc": [
+            0.5
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.04076528549194336,
+        "cluster_time": 1.0922956466674805,
+        "sequence_time": 0.009683370590209961,
+        "total_time": 1.1637852191925049,
+        "total_spikes": 620,
+        "total_patterns": 10,
+        "SM_acc": [
+            0.5
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.03705191612243652,
+        "cluster_time": 1.1066763401031494,
+        "sequence_time": 0.006112098693847656,
+        "total_time": 1.1682746410369873,
+        "total_spikes": 620,
+        "total_patterns": 17,
+        "SM_acc": [
+            0.5
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 2,
+        "noise": 600,
+        "window_time": 0.04029512405395508,
+        "cluster_time": 1.114654779434204,
+        "sequence_time": 0.0005521774291992188,
+        "total_time": 1.1601321697235107,
+        "total_spikes": 620,
+        "total_patterns": 4,
+        "SM_acc": [
+            0.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.038704633712768555,
+        "cluster_time": 0.9750325679779053,
+        "sequence_time": 0.009284257888793945,
+        "total_time": 1.043637990951538,
+        "total_spikes": 630,
+        "total_patterns": 17,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.0485379695892334,
+        "cluster_time": 0.9917299747467041,
+        "sequence_time": 0.0028688907623291016,
+        "total_time": 1.060408592224121,
+        "total_spikes": 630,
+        "total_patterns": 13,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.038124799728393555,
+        "cluster_time": 0.9544734954833984,
+        "sequence_time": 0.010217428207397461,
+        "total_time": 1.0322186946868896,
+        "total_spikes": 630,
+        "total_patterns": 18,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.038459062576293945,
+        "cluster_time": 0.9630601406097412,
+        "sequence_time": 0.0010356903076171875,
+        "total_time": 1.019289493560791,
+        "total_spikes": 630,
+        "total_patterns": 12,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 3,
+        "noise": 600,
+        "window_time": 0.03322196006774902,
+        "cluster_time": 0.9801545143127441,
+        "sequence_time": 0.004977703094482422,
+        "total_time": 1.0303235054016113,
+        "total_spikes": 630,
+        "total_patterns": 10,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.03519105911254883,
+        "cluster_time": 1.039055585861206,
+        "sequence_time": 0.006021022796630859,
+        "total_time": 1.0953738689422607,
+        "total_spikes": 640,
+        "total_patterns": 13,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.03073406219482422,
+        "cluster_time": 1.092787504196167,
+        "sequence_time": 0.005023002624511719,
+        "total_time": 1.1434683799743652,
+        "total_spikes": 640,
+        "total_patterns": 11,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.03998136520385742,
+        "cluster_time": 1.0822632312774658,
+        "sequence_time": 0.0005512237548828125,
+        "total_time": 1.1248314380645752,
+        "total_spikes": 640,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.029034137725830078,
+        "cluster_time": 0.9357011318206787,
+        "sequence_time": 0.0,
+        "total_time": 0.9763126373291016,
+        "total_spikes": 640,
+        "total_patterns": 7,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 4,
+        "noise": 600,
+        "window_time": 0.0408167839050293,
+        "cluster_time": 1.0895307064056396,
+        "sequence_time": 0.0009968280792236328,
+        "total_time": 1.133338212966919,
+        "total_spikes": 640,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.04588961601257324,
+        "cluster_time": 1.0606038570404053,
+        "sequence_time": 0.010054588317871094,
+        "total_time": 1.1367127895355225,
+        "total_spikes": 650,
+        "total_patterns": 15,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.04500985145568848,
+        "cluster_time": 1.0348730087280273,
+        "sequence_time": 0.014648199081420898,
+        "total_time": 1.1145799160003662,
+        "total_spikes": 650,
+        "total_patterns": 19,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.03992891311645508,
+        "cluster_time": 1.1250274181365967,
+        "sequence_time": 0.005038738250732422,
+        "total_time": 1.1699950695037842,
+        "total_spikes": 650,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.04957270622253418,
+        "cluster_time": 1.0076029300689697,
+        "sequence_time": 0.003991603851318359,
+        "total_time": 1.0726592540740967,
+        "total_spikes": 650,
+        "total_patterns": 9,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 5,
+        "noise": 600,
+        "window_time": 0.03205084800720215,
+        "cluster_time": 1.062891960144043,
+        "sequence_time": 0.005048036575317383,
+        "total_time": 1.1160149574279785,
+        "total_spikes": 650,
+        "total_patterns": 11,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04047131538391113,
+        "cluster_time": 1.0004401206970215,
+        "sequence_time": 0.011177778244018555,
+        "total_time": 1.0541472434997559,
+        "total_spikes": 660,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04071331024169922,
+        "cluster_time": 1.1202921867370605,
+        "sequence_time": 0.003988981246948242,
+        "total_time": 1.1739695072174072,
+        "total_spikes": 660,
+        "total_patterns": 7,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.03510546684265137,
+        "cluster_time": 1.0624189376831055,
+        "sequence_time": 0.002562999725341797,
+        "total_time": 1.1000874042510986,
+        "total_spikes": 660,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.044127464294433594,
+        "cluster_time": 1.001438856124878,
+        "sequence_time": 0.00797724723815918,
+        "total_time": 1.0741243362426758,
+        "total_spikes": 660,
+        "total_patterns": 18,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 6,
+        "noise": 600,
+        "window_time": 0.04480457305908203,
+        "cluster_time": 1.1750247478485107,
+        "sequence_time": 0.005042076110839844,
+        "total_time": 1.2248713970184326,
+        "total_spikes": 660,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.04295635223388672,
+        "cluster_time": 1.1163835525512695,
+        "sequence_time": 0.009802103042602539,
+        "total_time": 1.176140308380127,
+        "total_spikes": 670,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.05359792709350586,
+        "cluster_time": 1.065830945968628,
+        "sequence_time": 0.001997709274291992,
+        "total_time": 1.1234185695648193,
+        "total_spikes": 670,
+        "total_patterns": 1,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.042945146560668945,
+        "cluster_time": 1.0765290260314941,
+        "sequence_time": 0.006556272506713867,
+        "total_time": 1.1310548782348633,
+        "total_spikes": 670,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.0444793701171875,
+        "cluster_time": 1.1475563049316406,
+        "sequence_time": 0.0029532909393310547,
+        "total_time": 1.1990106105804443,
+        "total_spikes": 670,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 7,
+        "noise": 600,
+        "window_time": 0.04632258415222168,
+        "cluster_time": 1.0448195934295654,
+        "sequence_time": 0.0030248165130615234,
+        "total_time": 1.0981216430664062,
+        "total_spikes": 670,
+        "total_patterns": 5,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.048657894134521484,
+        "cluster_time": 1.0927529335021973,
+        "sequence_time": 0.008059024810791016,
+        "total_time": 1.1685359477996826,
+        "total_spikes": 680,
+        "total_patterns": 19,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.04313516616821289,
+        "cluster_time": 0.9929940700531006,
+        "sequence_time": 0.009330987930297852,
+        "total_time": 1.0519897937774658,
+        "total_spikes": 680,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.04460000991821289,
+        "cluster_time": 1.0849733352661133,
+        "sequence_time": 0.005107879638671875,
+        "total_time": 1.1369640827178955,
+        "total_spikes": 680,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.037611961364746094,
+        "cluster_time": 1.0487594604492188,
+        "sequence_time": 0.005034685134887695,
+        "total_time": 1.095395565032959,
+        "total_spikes": 680,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 8,
+        "noise": 600,
+        "window_time": 0.054317474365234375,
+        "cluster_time": 1.108607292175293,
+        "sequence_time": 0.0010292530059814453,
+        "total_time": 1.1700541973114014,
+        "total_spikes": 680,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.033710479736328125,
+        "cluster_time": 1.2020573616027832,
+        "sequence_time": 0.0030269622802734375,
+        "total_time": 1.2417447566986084,
+        "total_spikes": 690,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.0525665283203125,
+        "cluster_time": 1.1110451221466064,
+        "sequence_time": 0.001993417739868164,
+        "total_time": 1.168595314025879,
+        "total_spikes": 690,
+        "total_patterns": 2,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.04452323913574219,
+        "cluster_time": 1.0522410869598389,
+        "sequence_time": 0.0,
+        "total_time": 1.096764326095581,
+        "total_spikes": 690,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.06315088272094727,
+        "cluster_time": 1.1223115921020508,
+        "sequence_time": 0.004626035690307617,
+        "total_time": 1.1930713653564453,
+        "total_spikes": 690,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 9,
+        "noise": 600,
+        "window_time": 0.03669095039367676,
+        "cluster_time": 1.195383071899414,
+        "sequence_time": 0.004625082015991211,
+        "total_time": 1.236699104309082,
+        "total_spikes": 690,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.05016374588012695,
+        "cluster_time": 1.0826923847198486,
+        "sequence_time": 0.011223793029785156,
+        "total_time": 1.1490578651428223,
+        "total_spikes": 700,
+        "total_patterns": 5,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.04783797264099121,
+        "cluster_time": 1.0199956893920898,
+        "sequence_time": 0.005049943923950195,
+        "total_time": 1.0793979167938232,
+        "total_spikes": 700,
+        "total_patterns": 4,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.04999589920043945,
+        "cluster_time": 1.2840473651885986,
+        "sequence_time": 0.00513768196105957,
+        "total_time": 1.3391809463500977,
+        "total_spikes": 700,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.05188775062561035,
+        "cluster_time": 1.1177573204040527,
+        "sequence_time": 0.005042314529418945,
+        "total_time": 1.1810243129730225,
+        "total_spikes": 700,
+        "total_patterns": 3,
+        "SM_acc": [
+            1.0
+        ]
+    },
+    {
+        "M": 1,
+        "N": 30,
+        "D": 31,
+        "T": 10000,
+        "SM_repetitions": 10,
+        "spikes_in_SM": 10,
+        "noise": 600,
+        "window_time": 0.048679351806640625,
+        "cluster_time": 1.2249412536621094,
+        "sequence_time": 0.005336284637451172,
+        "total_time": 1.2834985256195068,
+        "total_spikes": 700,
+        "total_patterns": 5,
+        "SM_acc": [
+            1.0
+        ]
+    }
+]
