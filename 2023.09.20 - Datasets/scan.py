@@ -123,7 +123,7 @@ def scan_raster(T_labels, N_labels, window_dim = None):
     end = time.time()
     sequence_time = end-start
         
-    return pattern_template, all_times, window_time, cluster_time, sequence_time
+    return pattern_template, all_times, window_time, cluster_time, sequence_time, opt_cutoff
 
 def _get_sim_mats(windows, T_labels, N_labels):
     sim_mats = np.zeros(np.max(N_labels)+1,dtype='object')
